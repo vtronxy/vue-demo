@@ -1,0 +1,88 @@
+@import "_color.scss";
+@import "_size.scss";
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("./image/main-bg.png");
+}
+
+.head {
+    width: 100%;
+    height: 70px;
+    &_title {
+        width: 814px;
+        height: 100%;
+        background-image: url("./image/head-bg.png");
+        float: left;
+    }
+    &_classify {
+        float: left;
+        margin-left: 5px;
+        margin-top: 10px;
+        width: calc((100% - 814px) * 0.6 - 5px);
+        &_title {
+            display: inline-block;
+            margin-left: 10px;
+        }
+        &_img {
+            width: 40px;
+        }
+    }
+    &_home {
+        float: right;
+        margin-top: 14px;
+        margin-right: 5px;
+        width: 45px;
+        height: 45px;
+    }
+    .title {
+        &_text {
+            font-size: 26px;
+            font-weight: bold;
+            color: #fff;
+        }
+        &_subText {
+            font-size: 14px;
+            color: #999;
+        }
+    }
+}
+
+@mixin main {
+    float: left;
+    height: $main-height;
+    margin-bottom: 18px;
+}
+
+.main {
+    &-left,
+    &-right {
+        @include main;
+        margin-left: 4px;
+        margin-right: 4px;
+        width: $main-lr-width;
+    }
+    &-center {
+        @include main;
+        margin-left: 16px;
+        margin-right: 16px;
+        width: $main-center-width;
+    }
+}
+
+@mixin card {
+    background-color: $card-bgc;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+
+.hidden_hr {
+    height: 0;
+    border: 0
+}

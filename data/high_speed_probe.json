@@ -1,0 +1,2869 @@
+{
+ "displayFieldName": "name",
+ "fieldAliases": {
+  "FID": "FID",
+  "id": "id",
+  "name": "name",
+  "deviceid": "deviceid",
+  "view_": "view_",
+  "descriptio": "descriptio"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "FID",
+   "type": "esriFieldTypeOID",
+   "alias": "FID"
+  },
+  {
+   "name": "id",
+   "type": "esriFieldTypeString",
+   "alias": "id",
+   "length": 8
+  },
+  {
+   "name": "name",
+   "type": "esriFieldTypeString",
+   "alias": "name",
+   "length": 10
+  },
+  {
+   "name": "deviceid",
+   "type": "esriFieldTypeString",
+   "alias": "deviceid",
+   "length": 10
+  },
+  {
+   "name": "view_",
+   "type": "esriFieldTypeString",
+   "alias": "view_",
+   "length": 8
+  },
+  {
+   "name": "descriptio",
+   "type": "esriFieldTypeString",
+   "alias": "descriptio",
+   "length": 8
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "FID": 0,
+    "id": "0",
+    "name": "高速探头",
+    "deviceid": "70-EN-3561",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.36049901800004,
+    "y": 30.69634959800004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 1,
+    "id": "1",
+    "name": "高速探头",
+    "deviceid": "70-EN-3562",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.35070919700001,
+    "y": 30.695932093000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 2,
+    "id": "2",
+    "name": "高速探头",
+    "deviceid": "70-EN-3563",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.34257743700005,
+    "y": 30.69316040800004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 3,
+    "id": "3",
+    "name": "高速探头",
+    "deviceid": "70-EN-3564",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.33590901000002,
+    "y": 30.690009341000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 4,
+    "id": "4",
+    "name": "高速探头",
+    "deviceid": "70-EN-3565",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.32829330000004,
+    "y": 30.686415136000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 5,
+    "id": "5",
+    "name": "高速探头",
+    "deviceid": "70-EN-3566",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.3206197180001,
+    "y": 30.681821855000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 6,
+    "id": "6",
+    "name": "高速探头",
+    "deviceid": "70-EN-3567",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.31470282500004,
+    "y": 30.677440327000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 7,
+    "id": "7",
+    "name": "高速探头",
+    "deviceid": "70-EN-3568",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.3090867630001,
+    "y": 30.673496949000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 8,
+    "id": "8",
+    "name": "高速探头",
+    "deviceid": "70-EN-3569",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.29832841900009,
+    "y": 30.668813035000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 9,
+    "id": "9",
+    "name": "高速探头",
+    "deviceid": "70-EN-3570",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.28955651000001,
+    "y": 30.665523801000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 10,
+    "id": "10",
+    "name": "高速探头",
+    "deviceid": "70-EN-3571",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.27952898800004,
+    "y": 30.663063716000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 11,
+    "id": "11",
+    "name": "高速探头",
+    "deviceid": "70-EN-3572",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.27257555600011,
+    "y": 30.65880085200007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 12,
+    "id": "12",
+    "name": "高速探头",
+    "deviceid": "70-EN-3573",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.2662037230001,
+    "y": 30.653669771000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 13,
+    "id": "13",
+    "name": "高速探头",
+    "deviceid": "70-EN-3574",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.25695535800003,
+    "y": 30.646996305000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 14,
+    "id": "14",
+    "name": "高速探头",
+    "deviceid": "70-EN-3575",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.25137764500005,
+    "y": 30.643603401000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 15,
+    "id": "15",
+    "name": "高速探头",
+    "deviceid": "70-EN-3576",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.24485790100005,
+    "y": 30.638883839000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 16,
+    "id": "16",
+    "name": "高速探头",
+    "deviceid": "70-EN-3577",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.23931398000002,
+    "y": 30.636339754000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 17,
+    "id": "17",
+    "name": "高速探头",
+    "deviceid": "70-EN-3578",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.23454344700008,
+    "y": 30.633591230000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 18,
+    "id": "18",
+    "name": "高速探头",
+    "deviceid": "70-EN-3579",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.23186625900007,
+    "y": 30.631471006000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 19,
+    "id": "19",
+    "name": "高速探头",
+    "deviceid": "70-EN-3580",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.22923638300006,
+    "y": 30.630116937000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 20,
+    "id": "20",
+    "name": "高速探头",
+    "deviceid": "70-EN-3581",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.22620993100008,
+    "y": 30.628158918000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 21,
+    "id": "21",
+    "name": "高速探头",
+    "deviceid": "70-EN-3582",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.22440016400003,
+    "y": 30.627748758000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 22,
+    "id": "22",
+    "name": "高速探头",
+    "deviceid": "70-EN-3583",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.21968837400004,
+    "y": 30.627561646000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 23,
+    "id": "23",
+    "name": "高速探头",
+    "deviceid": "70-EN-3584",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.21451588600007,
+    "y": 30.627495320000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 24,
+    "id": "24",
+    "name": "高速探头",
+    "deviceid": "70-EN-3585",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.20930828500002,
+    "y": 30.62730502900007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 25,
+    "id": "25",
+    "name": "高速探头",
+    "deviceid": "70-EN-3586",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.20354150700007,
+    "y": 30.626989773000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 26,
+    "id": "26",
+    "name": "高速探头",
+    "deviceid": "70-EN-3587",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.2006796820001,
+    "y": 30.627149436000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 27,
+    "id": "27",
+    "name": "高速探头",
+    "deviceid": "70-EN-3588",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19573113800004,
+    "y": 30.626709491000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 28,
+    "id": "28",
+    "name": "高速探头",
+    "deviceid": "70-EN-3589",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19260208200001,
+    "y": 30.626708005000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 29,
+    "id": "29",
+    "name": "高速探头",
+    "deviceid": "70-EN-3590",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19211622000012,
+    "y": 30.62668592600005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 30,
+    "id": "30",
+    "name": "高速探头",
+    "deviceid": "70-EN-3591",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19143112300003,
+    "y": 30.626503741000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 31,
+    "id": "31",
+    "name": "高速探头",
+    "deviceid": "70-EN-3592",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.18995561600002,
+    "y": 30.626451864000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 32,
+    "id": "32",
+    "name": "高速探头",
+    "deviceid": "70-EN-3593",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.18838685200001,
+    "y": 30.62641734400006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 33,
+    "id": "33",
+    "name": "高速探头",
+    "deviceid": "70-EN-3594",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1871645010001,
+    "y": 30.626354744000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 34,
+    "id": "34",
+    "name": "高速探头",
+    "deviceid": "70-EN-3595",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19432828400011,
+    "y": 30.626576857000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 35,
+    "id": "35",
+    "name": "高速探头",
+    "deviceid": "70-EN-3596",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19794738300004,
+    "y": 30.626805879000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 36,
+    "id": "36",
+    "name": "高速探头",
+    "deviceid": "70-EN-3597",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.19886822900003,
+    "y": 30.627164355000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 37,
+    "id": "37",
+    "name": "高速探头",
+    "deviceid": "70-EN-3598",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.18607646000009,
+    "y": 30.626406624000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 38,
+    "id": "38",
+    "name": "高速探头",
+    "deviceid": "70-EN-3599",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1844616730001,
+    "y": 30.626527550000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 39,
+    "id": "39",
+    "name": "高速探头",
+    "deviceid": "70-EN-3600",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.18283342900008,
+    "y": 30.626673823000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 40,
+    "id": "40",
+    "name": "高速探头",
+    "deviceid": "70-EN-3601",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.18081752100011,
+    "y": 30.627040990000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 41,
+    "id": "41",
+    "name": "高速探头",
+    "deviceid": "70-EN-3602",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17875514000002,
+    "y": 30.627817479000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 42,
+    "id": "42",
+    "name": "高速探头",
+    "deviceid": "70-EN-3603",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17790082100009,
+    "y": 30.628321988000039
+   }
+  },
+  {
+   "attributes": {
+    "FID": 43,
+    "id": "43",
+    "name": "高速探头",
+    "deviceid": "70-EN-3604",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17644852000001,
+    "y": 30.628609990000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 44,
+    "id": "44",
+    "name": "高速探头",
+    "deviceid": "70-EN-3605",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17386077200001,
+    "y": 30.629202603000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 45,
+    "id": "45",
+    "name": "高速探头",
+    "deviceid": "70-EN-3606",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17507567100006,
+    "y": 30.629117613000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 46,
+    "id": "46",
+    "name": "高速探头",
+    "deviceid": "70-EN-3607",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17259639100007,
+    "y": 30.629250803000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 47,
+    "id": "47",
+    "name": "高速探头",
+    "deviceid": "70-EN-3608",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17046391000008,
+    "y": 30.629303857000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 48,
+    "id": "48",
+    "name": "高速探头",
+    "deviceid": "70-EN-3609",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16886169700001,
+    "y": 30.629303055000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 49,
+    "id": "49",
+    "name": "高速探头",
+    "deviceid": "70-EN-3610",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16782194600012,
+    "y": 30.629281445000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 50,
+    "id": "50",
+    "name": "高速探头",
+    "deviceid": "70-EN-3611",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16674087600006,
+    "y": 30.629171996000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 51,
+    "id": "51",
+    "name": "高速探头",
+    "deviceid": "70-EN-3612",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16600454200011,
+    "y": 30.629013299000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 52,
+    "id": "52",
+    "name": "高速探头",
+    "deviceid": "70-EN-3613",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16496046600003,
+    "y": 30.62870289500006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 53,
+    "id": "53",
+    "name": "高速探头",
+    "deviceid": "70-EN-3614",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16734100600002,
+    "y": 30.625751795000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 54,
+    "id": "54",
+    "name": "高速探头",
+    "deviceid": "70-EN-3615",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16682468700003,
+    "y": 30.626883139000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 55,
+    "id": "55",
+    "name": "高速探头",
+    "deviceid": "70-EN-3616",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16569568600005,
+    "y": 30.627611959000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 56,
+    "id": "56",
+    "name": "高速探头",
+    "deviceid": "70-EN-3617",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16472741000007,
+    "y": 30.627742603000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 57,
+    "id": "57",
+    "name": "高速探头",
+    "deviceid": "70-EN-3618",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16342967300011,
+    "y": 30.627490365000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 58,
+    "id": "58",
+    "name": "高速探头",
+    "deviceid": "70-EN-3619",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16412569500005,
+    "y": 30.628306011000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 59,
+    "id": "59",
+    "name": "高速探头",
+    "deviceid": "70-EN-3620",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16339865900011,
+    "y": 30.627868044000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 60,
+    "id": "60",
+    "name": "高速探头",
+    "deviceid": "70-EN-3621",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16248285100005,
+    "y": 30.627378706000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 61,
+    "id": "61",
+    "name": "高速探头",
+    "deviceid": "70-EN-3622",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16171380000003,
+    "y": 30.626433500000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 62,
+    "id": "62",
+    "name": "高速探头",
+    "deviceid": "70-EN-3623",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16120353500003,
+    "y": 30.625798556000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 63,
+    "id": "63",
+    "name": "高速探头",
+    "deviceid": "70-EN-3624",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16071461800004,
+    "y": 30.625069461000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 64,
+    "id": "64",
+    "name": "高速探头",
+    "deviceid": "70-EN-3625",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16123851700002,
+    "y": 30.624239589000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 65,
+    "id": "65",
+    "name": "高速探头",
+    "deviceid": "70-EN-3626",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.160638027,
+    "y": 30.624220363000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 66,
+    "id": "66",
+    "name": "高速探头",
+    "deviceid": "70-EN-3627",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15981685700001,
+    "y": 30.623742674000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 67,
+    "id": "67",
+    "name": "高速探头",
+    "deviceid": "70-EN-3628",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15914257300005,
+    "y": 30.623020064000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 68,
+    "id": "68",
+    "name": "高速探头",
+    "deviceid": "70-EN-3629",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15861441800007,
+    "y": 30.621978089000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 69,
+    "id": "69",
+    "name": "高速探头",
+    "deviceid": "70-EN-3630",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15800638000007,
+    "y": 30.621126828000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 70,
+    "id": "70",
+    "name": "高速探头",
+    "deviceid": "70-EN-3631",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15712199900008,
+    "y": 30.619817506000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 71,
+    "id": "71",
+    "name": "高速探头",
+    "deviceid": "70-EN-3632",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15620298600004,
+    "y": 30.618450583000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 72,
+    "id": "72",
+    "name": "高速探头",
+    "deviceid": "70-EN-3633",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15554075200009,
+    "y": 30.617473742000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 73,
+    "id": "73",
+    "name": "高速探头",
+    "deviceid": "70-EN-3634",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15468266700009,
+    "y": 30.615600981000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 74,
+    "id": "74",
+    "name": "高速探头",
+    "deviceid": "70-EN-3635",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15422884300006,
+    "y": 30.614288743000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 75,
+    "id": "75",
+    "name": "高速探头",
+    "deviceid": "70-EN-3636",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1537470080001,
+    "y": 30.615347684000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 76,
+    "id": "76",
+    "name": "高速探头",
+    "deviceid": "70-EN-3637",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15377714100009,
+    "y": 30.615029831000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 77,
+    "id": "77",
+    "name": "高速探头",
+    "deviceid": "70-EN-3638",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15465753000001,
+    "y": 30.610847653000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 78,
+    "id": "78",
+    "name": "高速探头",
+    "deviceid": "70-EN-3639",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15437246900001,
+    "y": 30.612084760000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 79,
+    "id": "79",
+    "name": "高速探头",
+    "deviceid": "70-EN-3640",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15431971300006,
+    "y": 30.613370744000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 80,
+    "id": "80",
+    "name": "高速探头",
+    "deviceid": "70-EN-3641",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15447224200011,
+    "y": 30.61476787600003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 81,
+    "id": "81",
+    "name": "高速探头",
+    "deviceid": "70-EN-3642",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15501580200009,
+    "y": 30.60994295900008
+   }
+  },
+  {
+   "attributes": {
+    "FID": 82,
+    "id": "82",
+    "name": "高速探头",
+    "deviceid": "70-EN-3643",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15571236900007,
+    "y": 30.608724081000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 83,
+    "id": "83",
+    "name": "高速探头",
+    "deviceid": "70-EN-3644",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15516822200004,
+    "y": 30.608402010000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 84,
+    "id": "84",
+    "name": "高速探头",
+    "deviceid": "70-EN-3645",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15521604800006,
+    "y": 30.606828174000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 85,
+    "id": "85",
+    "name": "高速探头",
+    "deviceid": "70-EN-3646",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15597381700002,
+    "y": 30.605443889000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 86,
+    "id": "86",
+    "name": "高速探头",
+    "deviceid": "70-EN-3647",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15635971800009,
+    "y": 30.607639436000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 87,
+    "id": "87",
+    "name": "高速探头",
+    "deviceid": "70-EN-3648",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15634236900007,
+    "y": 30.608887062000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 88,
+    "id": "88",
+    "name": "高速探头",
+    "deviceid": "70-EN-3649",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15773549100004,
+    "y": 30.608561376000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 89,
+    "id": "89",
+    "name": "高速探头",
+    "deviceid": "70-EN-3650",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15887509800007,
+    "y": 30.608051353000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 90,
+    "id": "90",
+    "name": "高速探头",
+    "deviceid": "70-EN-3651",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15882849000002,
+    "y": 30.607455384000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 91,
+    "id": "91",
+    "name": "高速探头",
+    "deviceid": "70-EN-3652",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15718966400004,
+    "y": 30.606809572000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 92,
+    "id": "92",
+    "name": "高速探头",
+    "deviceid": "70-EN-3653",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15785207100009,
+    "y": 30.606199294000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 93,
+    "id": "93",
+    "name": "高速探头",
+    "deviceid": "70-EN-3654",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15844733300003,
+    "y": 30.605644218000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 94,
+    "id": "94",
+    "name": "高速探头",
+    "deviceid": "70-EN-3655",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15914881000003,
+    "y": 30.604996213000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 95,
+    "id": "95",
+    "name": "高速探头",
+    "deviceid": "70-EN-3656",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1597696120001,
+    "y": 30.604424050000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 96,
+    "id": "96",
+    "name": "高速探头",
+    "deviceid": "70-EN-3657",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16101643000002,
+    "y": 30.603253701000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 97,
+    "id": "97",
+    "name": "高速探头",
+    "deviceid": "70-EN-3658",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16175609300001,
+    "y": 30.602724785000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 98,
+    "id": "98",
+    "name": "高速探头",
+    "deviceid": "70-EN-3659",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1620108620001,
+    "y": 30.602321159000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 99,
+    "id": "99",
+    "name": "高速探头",
+    "deviceid": "70-EN-3660",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16249785100001,
+    "y": 30.602022370000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 100,
+    "id": "100",
+    "name": "高速探头",
+    "deviceid": "70-EN-3661",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1629192370001,
+    "y": 30.601625629000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 101,
+    "id": "101",
+    "name": "高速探头",
+    "deviceid": "70-EN-3662",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16351084200005,
+    "y": 30.601047339000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 102,
+    "id": "102",
+    "name": "高速探头",
+    "deviceid": "70-EN-3663",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16048376000003,
+    "y": 30.603917911000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 103,
+    "id": "103",
+    "name": "高速探头",
+    "deviceid": "70-EN-3664",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15942160700001,
+    "y": 30.604910780000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 104,
+    "id": "104",
+    "name": "高速探头",
+    "deviceid": "70-EN-3665",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15829552600007,
+    "y": 30.605949071000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 105,
+    "id": "105",
+    "name": "高速探头",
+    "deviceid": "70-EN-3666",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16362118000006,
+    "y": 30.600742065000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 106,
+    "id": "106",
+    "name": "高速探头",
+    "deviceid": "70-EN-3667",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16393715600009,
+    "y": 30.600292754000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 107,
+    "id": "107",
+    "name": "高速探头",
+    "deviceid": "70-EN-3668",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16423671000007,
+    "y": 30.599627344000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 108,
+    "id": "108",
+    "name": "高速探头",
+    "deviceid": "70-EN-3669",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16435542300007,
+    "y": 30.599056776000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 109,
+    "id": "109",
+    "name": "高速探头",
+    "deviceid": "70-EN-3670",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16434491300004,
+    "y": 30.598325220000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 110,
+    "id": "110",
+    "name": "高速探头",
+    "deviceid": "70-EN-3671",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1641849880001,
+    "y": 30.597407978000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 111,
+    "id": "111",
+    "name": "高速探头",
+    "deviceid": "70-EN-3672",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16428985000005,
+    "y": 30.596707246000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 112,
+    "id": "112",
+    "name": "高速探头",
+    "deviceid": "70-EN-3673",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16414775900012,
+    "y": 30.595821496000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 113,
+    "id": "113",
+    "name": "高速探头",
+    "deviceid": "70-EN-3674",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16390078800009,
+    "y": 30.595145873000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 114,
+    "id": "114",
+    "name": "高速探头",
+    "deviceid": "70-EN-3675",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16364988700002,
+    "y": 30.594345862000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 115,
+    "id": "115",
+    "name": "高速探头",
+    "deviceid": "70-EN-3676",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16383799900007,
+    "y": 30.593685569000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 116,
+    "id": "116",
+    "name": "高速探头",
+    "deviceid": "70-EN-3677",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16368873600004,
+    "y": 30.592915685000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 117,
+    "id": "117",
+    "name": "高速探头",
+    "deviceid": "70-EN-3678",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1632664120001,
+    "y": 30.592205236000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 118,
+    "id": "118",
+    "name": "高速探头",
+    "deviceid": "70-EN-3679",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16335547400001,
+    "y": 30.591629904000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 119,
+    "id": "119",
+    "name": "高速探头",
+    "deviceid": "70-EN-3680",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16311293300009,
+    "y": 30.591291869000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 120,
+    "id": "120",
+    "name": "高速探头",
+    "deviceid": "70-EN-3681",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16334380800004,
+    "y": 30.591252045000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 121,
+    "id": "121",
+    "name": "高速探头",
+    "deviceid": "70-EN-3682",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16310238200003,
+    "y": 30.590870428000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 122,
+    "id": "122",
+    "name": "高速探头",
+    "deviceid": "70-EN-3683",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16293783200001,
+    "y": 30.590413694000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 123,
+    "id": "123",
+    "name": "高速探头",
+    "deviceid": "70-EN-3684",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16273424700012,
+    "y": 30.590253387000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 124,
+    "id": "124",
+    "name": "高速探头",
+    "deviceid": "70-EN-3685",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16254304100005,
+    "y": 30.590160051000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 125,
+    "id": "125",
+    "name": "高速探头",
+    "deviceid": "70-EN-3686",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16264346800006,
+    "y": 30.589695792000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 126,
+    "id": "126",
+    "name": "高速探头",
+    "deviceid": "70-EN-3687",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16279425500011,
+    "y": 30.589666953000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 127,
+    "id": "127",
+    "name": "高速探头",
+    "deviceid": "70-EN-3688",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16224538300003,
+    "y": 30.58845771600005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 128,
+    "id": "128",
+    "name": "高速探头",
+    "deviceid": "70-EN-3689",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16231555900004,
+    "y": 30.588800353000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 129,
+    "id": "129",
+    "name": "高速探头",
+    "deviceid": "70-EN-3690",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.1622036010001,
+    "y": 30.588738974000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 130,
+    "id": "130",
+    "name": "高速探头",
+    "deviceid": "70-EN-3691",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16199110500008,
+    "y": 30.588549560000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 131,
+    "id": "131",
+    "name": "高速探头",
+    "deviceid": "70-EN-3692",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16179723000005,
+    "y": 30.588447974000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 132,
+    "id": "132",
+    "name": "高速探头",
+    "deviceid": "70-EN-3693",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.15966015700008,
+    "y": 30.572990197000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 133,
+    "id": "133",
+    "name": "高速探头",
+    "deviceid": "70-EN-3694",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16214443500007,
+    "y": 30.55642183100008
+   }
+  },
+  {
+   "attributes": {
+    "FID": 134,
+    "id": "134",
+    "name": "高速探头",
+    "deviceid": "70-EN-3695",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.16819834300009,
+    "y": 30.538131520000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 135,
+    "id": "135",
+    "name": "高速探头",
+    "deviceid": "70-EN-3696",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.17335259300012,
+    "y": 30.529851934000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 136,
+    "id": "136",
+    "name": "高速探头",
+    "deviceid": "70-EN-3697",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.20233327500011,
+    "y": 30.512084955000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 137,
+    "id": "137",
+    "name": "高速探头",
+    "deviceid": "70-EN-3698",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.18876470700002,
+    "y": 30.520335832000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 138,
+    "id": "138",
+    "name": "高速探头",
+    "deviceid": "70-EN-3699",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.21646020700007,
+    "y": 30.502757574000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 139,
+    "id": "139",
+    "name": "高速探头",
+    "deviceid": "70-EN-3700",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.23221491200002,
+    "y": 30.492740932000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 140,
+    "id": "140",
+    "name": "高速探头",
+    "deviceid": "70-EN-3701",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.25207570200007,
+    "y": 30.47966487900004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 141,
+    "id": "141",
+    "name": "高速探头",
+    "deviceid": "70-EN-3702",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.26704389200006,
+    "y": 30.470609234000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 142,
+    "id": "142",
+    "name": "高速探头",
+    "deviceid": "70-EN-3703",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.28235768600007,
+    "y": 30.465771784000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 143,
+    "id": "143",
+    "name": "高速探头",
+    "deviceid": "70-EN-3704",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.30287107200002,
+    "y": 30.460609761000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 144,
+    "id": "144",
+    "name": "高速探头",
+    "deviceid": "70-EN-3705",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.32338388100004,
+    "y": 30.460293927000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 145,
+    "id": "145",
+    "name": "高速探头",
+    "deviceid": "70-EN-3706",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.33722293300002,
+    "y": 30.460352700000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 146,
+    "id": "146",
+    "name": "高速探头",
+    "deviceid": "70-EN-3707",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.34570672100006,
+    "y": 30.460958763000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 147,
+    "id": "147",
+    "name": "高速探头",
+    "deviceid": "70-EN-3708",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.36379996100004,
+    "y": 30.461290879000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 148,
+    "id": "148",
+    "name": "高速探头",
+    "deviceid": "70-EN-3709",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.37499513200009,
+    "y": 30.462823094000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 149,
+    "id": "149",
+    "name": "高速探头",
+    "deviceid": "70-EN-3710",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.38840650500003,
+    "y": 30.463670024000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 150,
+    "id": "150",
+    "name": "高速探头",
+    "deviceid": "70-EN-3711",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.39989513300009,
+    "y": 30.464789101000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 151,
+    "id": "151",
+    "name": "高速探头",
+    "deviceid": "70-EN-3712",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.41262157000006,
+    "y": 30.467137861000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 152,
+    "id": "152",
+    "name": "高速探头",
+    "deviceid": "70-EN-3713",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.43192039100006,
+    "y": 30.468529523000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 153,
+    "id": "153",
+    "name": "高速探头",
+    "deviceid": "70-EN-3714",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.44595017800009,
+    "y": 30.474897694000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 154,
+    "id": "154",
+    "name": "高速探头",
+    "deviceid": "70-EN-3715",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45252833600011,
+    "y": 30.483401406000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 155,
+    "id": "155",
+    "name": "高速探头",
+    "deviceid": "70-EN-3716",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45167890200003,
+    "y": 30.492478675000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 156,
+    "id": "156",
+    "name": "高速探头",
+    "deviceid": "70-EN-3717",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45299281700011,
+    "y": 30.499947831000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 157,
+    "id": "157",
+    "name": "高速探头",
+    "deviceid": "70-EN-3718",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.44900466500007,
+    "y": 30.512705141000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 158,
+    "id": "158",
+    "name": "高速探头",
+    "deviceid": "70-EN-3719",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45224212000005,
+    "y": 30.525615437000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 159,
+    "id": "159",
+    "name": "高速探头",
+    "deviceid": "70-EN-3720",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45484283700011,
+    "y": 30.534526552000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 160,
+    "id": "160",
+    "name": "高速探头",
+    "deviceid": "70-EN-3721",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45176328000002,
+    "y": 30.545806267000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 161,
+    "id": "161",
+    "name": "高速探头",
+    "deviceid": "70-EN-3722",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.44439218800005,
+    "y": 30.555683738000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 162,
+    "id": "162",
+    "name": "高速探头",
+    "deviceid": "70-EN-3723",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.4388111610001,
+    "y": 30.558002846000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 163,
+    "id": "163",
+    "name": "高速探头",
+    "deviceid": "70-EN-3724",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.43099277300007,
+    "y": 30.576172435000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 164,
+    "id": "164",
+    "name": "高速探头",
+    "deviceid": "70-EN-3725",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42724639700009,
+    "y": 30.594624897000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 165,
+    "id": "165",
+    "name": "高速探头",
+    "deviceid": "70-EN-3726",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42690664100007,
+    "y": 30.599861863000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 166,
+    "id": "166",
+    "name": "高速探头",
+    "deviceid": "70-EN-3727",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42401417400004,
+    "y": 30.609622432000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 167,
+    "id": "167",
+    "name": "高速探头",
+    "deviceid": "70-EN-3728",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42022514900009,
+    "y": 30.621941113000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 168,
+    "id": "168",
+    "name": "高速探头",
+    "deviceid": "70-EN-3729",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.41476673500006,
+    "y": 30.637227225000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 169,
+    "id": "169",
+    "name": "高速探头",
+    "deviceid": "70-EN-3730",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.41476673500006,
+    "y": 30.637227225000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 170,
+    "id": "170",
+    "name": "高速探头",
+    "deviceid": "70-EN-3731",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.40609644800008,
+    "y": 30.647714135000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 171,
+    "id": "171",
+    "name": "高速探头",
+    "deviceid": "70-EN-3732",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.40020531900007,
+    "y": 30.657451532000039
+   }
+  },
+  {
+   "attributes": {
+    "FID": 172,
+    "id": "172",
+    "name": "高速探头",
+    "deviceid": "70-EN-3733",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.39562911300004,
+    "y": 30.666624326000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 173,
+    "id": "173",
+    "name": "高速探头",
+    "deviceid": "70-EN-3734",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.38770409000006,
+    "y": 30.675211432000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 174,
+    "id": "174",
+    "name": "高速探头",
+    "deviceid": "70-EN-3735",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.37754666900003,
+    "y": 30.691243716000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 175,
+    "id": "175",
+    "name": "高速探头",
+    "deviceid": "70-EN-3736",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.36805463400003,
+    "y": 30.695895016000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 176,
+    "id": "176",
+    "name": "高速探头",
+    "deviceid": "70-EN-3737",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.38152260600009,
+    "y": 30.686077090000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 177,
+    "id": "177",
+    "name": "高速探头",
+    "deviceid": "70-EN-3738",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.38514477600006,
+    "y": 30.680988264000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 178,
+    "id": "178",
+    "name": "高速探头",
+    "deviceid": "70-EN-3739",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.39797339200004,
+    "y": 30.662103527000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 179,
+    "id": "179",
+    "name": "高速探头",
+    "deviceid": "70-EN-3740",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.4032662730001,
+    "y": 30.651566780000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 180,
+    "id": "180",
+    "name": "高速探头",
+    "deviceid": "70-EN-3741",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.40942951400007,
+    "y": 30.643774517000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 181,
+    "id": "181",
+    "name": "高速探头",
+    "deviceid": "70-EN-3742",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.41713697000012,
+    "y": 30.631365453000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 182,
+    "id": "182",
+    "name": "高速探头",
+    "deviceid": "70-EN-3743",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42156851200002,
+    "y": 30.617564659000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 183,
+    "id": "183",
+    "name": "高速探头",
+    "deviceid": "70-EN-3744",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42543079800009,
+    "y": 30.604899533000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 184,
+    "id": "184",
+    "name": "高速探头",
+    "deviceid": "70-EN-3745",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42797510500009,
+    "y": 30.588829765000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 185,
+    "id": "185",
+    "name": "高速探头",
+    "deviceid": "70-EN-3746",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42861328600009,
+    "y": 30.583268641000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 186,
+    "id": "186",
+    "name": "高速探头",
+    "deviceid": "70-EN-3747",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.43419810800003,
+    "y": 30.567752461000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 187,
+    "id": "187",
+    "name": "高速探头",
+    "deviceid": "70-EN-3748",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.43830905100003,
+    "y": 30.562581095000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 188,
+    "id": "188",
+    "name": "高速探头",
+    "deviceid": "70-EN-3749",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.4481089090001,
+    "y": 30.551220755000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 189,
+    "id": "189",
+    "name": "高速探头",
+    "deviceid": "70-EN-3750",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45470537400001,
+    "y": 30.538819408000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 190,
+    "id": "190",
+    "name": "高速探头",
+    "deviceid": "70-EN-3751",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.45123277100004,
+    "y": 30.520211776000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 191,
+    "id": "191",
+    "name": "高速探头",
+    "deviceid": "70-EN-3752",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.44949188700002,
+    "y": 30.508620746000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 192,
+    "id": "192",
+    "name": "高速探头",
+    "deviceid": "70-EN-3753",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.4399742710001,
+    "y": 30.469924468000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 193,
+    "id": "193",
+    "name": "高速探头",
+    "deviceid": "70-EN-3754",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.42331221600011,
+    "y": 30.467429318000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 194,
+    "id": "194",
+    "name": "高速探头",
+    "deviceid": "70-EN-3755",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.38137234500005,
+    "y": 30.463420208000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 195,
+    "id": "195",
+    "name": "高速探头",
+    "deviceid": "70-EN-3756",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.35755246200006,
+    "y": 30.461031868000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 196,
+    "id": "196",
+    "name": "高速探头",
+    "deviceid": "70-EN-3757",
+    "view_": "东北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.31543063000004,
+    "y": 30.460399332000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 197,
+    "id": "197",
+    "name": "高速探头",
+    "deviceid": "70-EN-3758",
+    "view_": "西北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.29321599600007,
+    "y": 30.461029402000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 198,
+    "id": "198",
+    "name": "高速探头",
+    "deviceid": "70-EN-3759",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.25917112400009,
+    "y": 30.475029839000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 199,
+    "id": "199",
+    "name": "高速探头",
+    "deviceid": "70-EN-3760",
+    "view_": "东西",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.24126487900003,
+    "y": 30.486705870000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 200,
+    "id": "200",
+    "name": "高速探头",
+    "deviceid": "70-EN-3761",
+    "view_": "南北",
+    "descriptio": " "
+   },
+   "geometry": {
+    "x": 114.22100202700005,
+    "y": 30.500028397000051
+   }
+  }
+ ]
+}

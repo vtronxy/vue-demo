@@ -1,0 +1,31 @@
+/*装入echarts的容器*/
+
+@import 'size';
+$containerHeight:94% !default;
+@mixin container($fontColor:whitesmoke, $backgroundColor:transparent, $offsetTop:0px) {
+    box-sizing: border-box;
+    position: absolute;
+    width: 100%;
+    height: $containerHeight;
+    bottom: 0;
+    color: $fontColor;
+    padding-top: $offsetTop;
+}
+
+
+/* echarts图表的大小*/
+
+@mixin echartSize($width:100%, $height:100%) {
+    width: $width;
+    height: $height;
+}
+
+
+/* 内容缩进 默认变量是2.875rem*/
+
+$indent-left:2.875rem !default;
+$indent-right:2.875rem !default;
+.indent {
+    padding-left: $indent-left;
+    padding-right: $indent-right;
+}

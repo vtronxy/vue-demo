@@ -1,0 +1,1697 @@
+{
+ "displayFieldName": "id",
+ "fieldAliases": {
+  "FID": "FID",
+  "id": "id",
+  "name": "name",
+  "isnormal": "isnormal",
+  "sup_unit": "sup_unit",
+  "OBJSTATE": "OBJSTATE",
+  "type": "type"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "FID",
+   "type": "esriFieldTypeOID",
+   "alias": "FID"
+  },
+  {
+   "name": "id",
+   "type": "esriFieldTypeString",
+   "alias": "id",
+   "length": 50
+  },
+  {
+   "name": "name",
+   "type": "esriFieldTypeString",
+   "alias": "name",
+   "length": 50
+  },
+  {
+   "name": "isnormal",
+   "type": "esriFieldTypeString",
+   "alias": "isnormal",
+   "length": 50
+  },
+  {
+   "name": "sup_unit",
+   "type": "esriFieldTypeString",
+   "alias": "sup_unit",
+   "length": 50
+  },
+  {
+   "name": "OBJSTATE",
+   "type": "esriFieldTypeString",
+   "alias": "OBJSTATE",
+   "length": 50
+  },
+  {
+   "name": "type",
+   "type": "esriFieldTypeString",
+   "alias": "type",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "FID": 0,
+    "id": "0",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.18432374600002,
+    "y": 30.594208662000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 1,
+    "id": "1",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.31031620600004,
+    "y": 30.620977599000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 2,
+    "id": "2",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.34208201000001,
+    "y": 30.615623812000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 3,
+    "id": "3",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.33244519300001,
+    "y": 30.606700833000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 4,
+    "id": "4",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.32387913400009,
+    "y": 30.594922501000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 5,
+    "id": "5",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.30353474200001,
+    "y": 30.566725888000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 6,
+    "id": "6",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.36456791700004,
+    "y": 30.57422119000006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 7,
+    "id": "7",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.3220945380001,
+    "y": 30.548166092000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 8,
+    "id": "8",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.34279584900003,
+    "y": 30.540313871000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 9,
+    "id": "9",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.36099872500006,
+    "y": 30.538172356000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 10,
+    "id": "10",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.3160269120001,
+    "y": 30.523895590000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 11,
+    "id": "11",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.37063554200006,
+    "y": 30.520326398000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 12,
+    "id": "12",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.35885721000011,
+    "y": 30.523895590000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 13,
+    "id": "13",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "电子警察"
+   },
+   "geometry": {
+    "x": 114.34422352500007,
+    "y": 30.52889245800003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 14,
+    "id": "14",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.32637756800011,
+    "y": 30.546381496000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 15,
+    "id": "15",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.26819974600005,
+    "y": 30.558159828000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 16,
+    "id": "16",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.25392298000008,
+    "y": 30.55102144500006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 17,
+    "id": "17",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.25713525200001,
+    "y": 30.547809173000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 18,
+    "id": "18",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.23212224400004,
+    "y": 30.566247673000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 19,
+    "id": "19",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.23604207300002,
+    "y": 30.568810638000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 20,
+    "id": "20",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.22051352000005,
+    "y": 30.559463354000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 21,
+    "id": "21",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.21433225200008,
+    "y": 30.561272506000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 22,
+    "id": "22",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.20076361300005,
+    "y": 30.574087331000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 23,
+    "id": "23",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.21282462500005,
+    "y": 30.570770553000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 24,
+    "id": "24",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.19096404100003,
+    "y": 30.568961401000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 25,
+    "id": "25",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.20543725500011,
+    "y": 30.565041572000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 26,
+    "id": "26",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.21568911500003,
+    "y": 30.561875556000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 27,
+    "id": "27",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.19428081900003,
+    "y": 30.604842912000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 28,
+    "id": "28",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.20996013500007,
+    "y": 30.600772320000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 29,
+    "id": "29",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.24373096800002,
+    "y": 30.623235955000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 30,
+    "id": "30",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.29529179400004,
+    "y": 30.643890438000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 31,
+    "id": "31",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.26920985600009,
+    "y": 30.632281714000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 32,
+    "id": "32",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.26333011300005,
+    "y": 30.629718749000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 33,
+    "id": "33",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.18719497500001,
+    "y": 30.608461215000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 34,
+    "id": "34",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.16246990000002,
+    "y": 30.613285620000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 35,
+    "id": "35",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.17242023500012,
+    "y": 30.609968842000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 36,
+    "id": "36",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.20664335600009,
+    "y": 30.592028086000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 37,
+    "id": "37",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.21463377700002,
+    "y": 30.588108257000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 38,
+    "id": "38",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.22563945000002,
+    "y": 30.580419362000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 39,
+    "id": "39",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.24192181600006,
+    "y": 30.578157923000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 40,
+    "id": "40",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.25172138900007,
+    "y": 30.580570125000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 41,
+    "id": "41",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.26529002700011,
+    "y": 30.584339191000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 42,
+    "id": "42",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "天网监控"
+   },
+   "geometry": {
+    "x": 114.27207434600007,
+    "y": 30.58584681800005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 43,
+    "id": "43",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.27689875100009,
+    "y": 30.587806732000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 44,
+    "id": "44",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.29061815200009,
+    "y": 30.600621557000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 45,
+    "id": "45",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.29318111700002,
+    "y": 30.603335285000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 46,
+    "id": "46",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.29649789500002,
+    "y": 30.606501301000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 47,
+    "id": "47",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.29951314800007,
+    "y": 30.610119604000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 48,
+    "id": "48",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.26393316300005,
+    "y": 30.577253347000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 49,
+    "id": "49",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.26031486000011,
+    "y": 30.585545292000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 50,
+    "id": "50",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.2576011320001,
+    "y": 30.593988001000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 51,
+    "id": "51",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.25805342000001,
+    "y": 30.602430709000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 52,
+    "id": "52",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.25368130300001,
+    "y": 30.609516554000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 53,
+    "id": "53",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.26182248600003,
+    "y": 30.545593190000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 54,
+    "id": "54",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.25775189500007,
+    "y": 30.544537852000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 55,
+    "id": "55",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.25111833800008,
+    "y": 30.534889042000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 56,
+    "id": "56",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.24915842400003,
+    "y": 30.533833704000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 57,
+    "id": "57",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.23754970000005,
+    "y": 30.510616256000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 58,
+    "id": "58",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.23227300700012,
+    "y": 30.511520832000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 59,
+    "id": "59",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.2411680030001,
+    "y": 30.516043711000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 60,
+    "id": "60",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.24614317100009,
+    "y": 30.521923454000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 61,
+    "id": "61",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.33176303000005,
+    "y": 30.576219709000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 62,
+    "id": "62",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.33176303000005,
+    "y": 30.579313008000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 63,
+    "id": "63",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.36031656200009,
+    "y": 30.593827720000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 64,
+    "id": "64",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.36626521500011,
+    "y": 30.600014319000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 65,
+    "id": "65",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.38411117200008,
+    "y": 30.608104486000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 66,
+    "id": "66",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.39458080100007,
+    "y": 30.610008055000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 67,
+    "id": "67",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.41076113600002,
+    "y": 30.612387516000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 68,
+    "id": "68",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.40338480700007,
+    "y": 30.60191788800006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 69,
+    "id": "69",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.39862588500011,
+    "y": 30.600490211000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 70,
+    "id": "70",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.41361648900011,
+    "y": 30.600966103000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 71,
+    "id": "71",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.41956514100002,
+    "y": 30.601441996000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 72,
+    "id": "72",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.3436603350001,
+    "y": 30.610008055000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 73,
+    "id": "73",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.37364154400007,
+    "y": 30.62428482100006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 74,
+    "id": "74",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.26727963700012,
+    "y": 30.62737812000006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 75,
+    "id": "75",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.28560148700001,
+    "y": 30.631423204000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 76,
+    "id": "76",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.29297781600008,
+    "y": 30.633088827000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 77,
+    "id": "77",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.30083003700008,
+    "y": 30.634278557000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 78,
+    "id": "78",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.30273360600006,
+    "y": 30.646175862000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 79,
+    "id": "79",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.28583943300009,
+    "y": 30.653314245000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 80,
+    "id": "80",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.23491896700011,
+    "y": 30.612149570000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 81,
+    "id": "81",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.22635290800008,
+    "y": 30.605487079000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 82,
+    "id": "82",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.23515691400007,
+    "y": 30.598110750000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 83,
+    "id": "83",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.23729842800003,
+    "y": 30.603583510000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 84,
+    "id": "84",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.27679748100002,
+    "y": 30.577647385000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 85,
+    "id": "85",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.18376055600004,
+    "y": 30.567891595000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 86,
+    "id": "86",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.20493775900002,
+    "y": 30.537672441000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 87,
+    "id": "87",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.21493149500009,
+    "y": 30.533627357000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 88,
+    "id": "88",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.22373550100008,
+    "y": 30.529582273000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 89,
+    "id": "89",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.23491896700011,
+    "y": 30.523871567000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 90,
+    "id": "90",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.21897657900001,
+    "y": 30.515781399000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 91,
+    "id": "91",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.2165971180001,
+    "y": 30.512450154000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 92,
+    "id": "92",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.21017257300002,
+    "y": 30.516257291000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 93,
+    "id": "93",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.20279624400007,
+    "y": 30.520778267000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 94,
+    "id": "94",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.18471234000003,
+    "y": 30.531485842000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 95,
+    "id": "95",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.17329092700004,
+    "y": 30.538386279000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 96,
+    "id": "96",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.35746120900001,
+    "y": 30.471523425000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 97,
+    "id": "97",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.41314059700005,
+    "y": 30.480565376000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 98,
+    "id": "98",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.40481248300011,
+    "y": 30.491272951000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 99,
+    "id": "99",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.40290891400002,
+    "y": 30.479613592000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 100,
+    "id": "100",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.43336601500005,
+    "y": 30.486989921000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 101,
+    "id": "101",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.39672231600002,
+    "y": 30.47080958600003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 102,
+    "id": "102",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局",
+    "OBJSTATE": "完好",
+    "type": "卡口"
+   },
+   "geometry": {
+    "x": 114.40386069900001,
+    "y": 30.474140832000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 103,
+    "id": "103",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.33675989800008,
+    "y": 30.532437626000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 104,
+    "id": "104",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.32890767700007,
+    "y": 30.542669309000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 105,
+    "id": "105",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.33557016800012,
+    "y": 30.57645765500007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 106,
+    "id": "106",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.33485633000009,
+    "y": 30.588592906000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 107,
+    "id": "107",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.34508801200002,
+    "y": 30.599538427000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 108,
+    "id": "108",
+    "name": "道路摄像头",
+    "isnormal": "1",
+    "sup_unit": " 武汉市公安局交通管理局",
+    "OBJSTATE": "完好",
+    "type": "违停抓拍"
+   },
+   "geometry": {
+    "x": 114.34580185000004,
+    "y": 30.603345564000051
+   }
+  }
+ ]
+}

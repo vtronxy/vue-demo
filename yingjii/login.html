@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/login.css">
+    <title></title>
+    <script src="js/languages.js"></script>
+    <script type="text/javascript">
+        window.GetQueryString = function(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            } else {
+                return null;
+            }
+        };
+        const DEFAULT_LANGUAGE = 'zh-cn'; // en-au | zh-cn
+        window.language = GetQueryString("l") || DEFAULT_LANGUAGE;
+        language = language.toLocaleLowerCase();
+        if(language !== 'en-au' && language !== 'zh-cn') { language = DEFAULT_LANGUAGE; }
+        window.dlang = txt_lang[language];
+        // 设置页面Title属性
+        document.title = dlang.title;
+    </script>
+</head>
+<body>
+    <div class="ploginbox">
+        <div class="logo"></div>
+        <!--表单-->
+        <div class="form-box">
+            <div class="form-txtbox form-user"><input id="txtUser" type="text"></div>
+            <div class="form-txtbox form-pwd"><input id="txtPwd" type="password"></div>
+            <div class="form-btnbox"><input id="btnSubmit" type="button" value="${login_btn}"></div>
+        </div>
+        <!--页脚-->
+        <div class="foot-copyright">
+            <span class="copytext">${copyright}</span>
+        </div>
+    </div>
+</body>
+<!--加载Js脚本文件-->
+<!--模版替换-->
+<script type="text/javascript">
+    // 设置页面的语言样式
+    document.body.setAttribute('lng', language);
+    // 替换语言模版
+    var xhtml_template = document.body.innerHTML;
+    xhtml_template = xhtml_template.replace(/\$\{([^\s\:\}]+)(?:\:([^\s\:\}]+))?\}/g, function (match, key) {
+        return (dlang[key] === undefined) ? '' : dlang[key];
+    });
+    document.body.innerHTML = xhtml_template;
+</script>
+<!--插件-->
+<script src="plugins/jquery/jquery-3.1.1.min.js"></script>
+<!--业务-->
+<script src="js/userinfo.js"></script>
+<script src="js/login.js"></script>
+</html>

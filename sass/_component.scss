@@ -1,0 +1,141 @@
+@import "color";
+@import "size";
+//卡片头部
+.card_header {
+    position: absolute;
+    height: $card-header-height;
+    line-height: $card-header-height;
+    font-size: $card-header-font-size;
+    color: #03ffff;
+    background-color: #0b1850;
+    text-align: center;
+    border: 1px solid $card-border;
+    top: -0.9375rem;
+    left: 50%;
+    font-weight: bold;
+    width: calc(56% - 0.125rem);
+    margin-left: -25%;
+}
+
+.card_header::before {
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-right-color: $card-border;
+    border-width: 0.375rem;
+    left: -0.8125rem;
+    top: 0.4375rem;
+}
+
+.card_header::after {
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-left-color: $card-border;
+    border-width: 0.375rem;
+    right: -0.8125rem;
+    top: 0.4375rem;
+}
+
+@mixin span {
+    position: absolute;
+    padding: 0.25rem;
+    border-style: solid;
+}
+
+//corner 白色小包边
+.row1 {
+    @include span;
+    border-color: #ffffff;
+    border-width: 3px 0 0 3px;
+    top: -0.125rem;
+    left: -0.125rem;
+}
+
+.row2 {
+    @include span;
+    border-color: #ffffff;
+    border-width: 3px 3px 0 0;
+    top: -0.125rem;
+    right: -0.125rem;
+}
+
+.col1 {
+    @include span;
+    border-color: #ffffff;
+    border-width: 0 0 3px 3px;
+    bottom: -0.125rem;
+    left: -0.125rem;
+}
+
+.col2 {
+    @include span;
+    border-color: #ffffff;
+    border-width: 0 3px 3px 0;
+    bottom: -0.125rem;
+    right: -0.125rem;
+}
+
+//corner_blue 蓝色大包边
+.row1_b {
+    @include span;
+    border-color: $card-border;
+    padding: 0.5rem;
+    border-width: 5px 0 0 5px;
+    top: -0.1875rem;
+    left: -0.1875rem;
+}
+
+.row2_b {
+    @include span;
+    padding: 0.5rem;
+    border-color: $card-border;
+    border-width: 5px 5px 0 0;
+    top: -0.1875rem;
+    right: -0.1875rem;
+}
+
+.col1_b {
+    @include span;
+    padding: 0.5rem;
+    border-color: $card-border;
+    border-width: 0 0 5px 5px;
+    bottom: -0.1875rem;
+    left: -0.1875rem;
+}
+
+.col2_b {
+    @include span;
+    padding: 0.5rem;
+    border-color: $card-border;
+    border-width: 0 5px 5px 0;
+    bottom: -0.1875rem;
+    right: -0.1875rem;
+}
+
+//corner_fragment 蓝色小包边
+.row1_f {
+    @extend .row1;
+    border-color: $card-border;
+}
+
+.row2_f {
+    @extend .row2;
+    border-color: $card-border;
+}
+
+.col1_f {
+    @extend .col1;
+    border-color: $card-border;
+}
+
+.col2_f {
+    @extend .col2;
+    border-color: $card-border;
+}

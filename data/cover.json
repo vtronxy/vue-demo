@@ -1,0 +1,3002 @@
+{
+ "displayFieldName": "id",
+ "fieldAliases": {
+  "FID": "FID",
+  "id": "id",
+  "name": "name",
+  "DeptName1": "DeptName1",
+  "ObjState": "ObjState",
+  "DataSource": "DataSource",
+  "Material": "Material"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "FID",
+   "type": "esriFieldTypeOID",
+   "alias": "FID"
+  },
+  {
+   "name": "id",
+   "type": "esriFieldTypeString",
+   "alias": "id",
+   "length": 50
+  },
+  {
+   "name": "name",
+   "type": "esriFieldTypeString",
+   "alias": "name",
+   "length": 50
+  },
+  {
+   "name": "DeptName1",
+   "type": "esriFieldTypeString",
+   "alias": "DeptName1",
+   "length": 50
+  },
+  {
+   "name": "ObjState",
+   "type": "esriFieldTypeString",
+   "alias": "ObjState",
+   "length": 50
+  },
+  {
+   "name": "DataSource",
+   "type": "esriFieldTypeString",
+   "alias": "DataSource",
+   "length": 50
+  },
+  {
+   "name": "Material",
+   "type": "esriFieldTypeString",
+   "alias": "Material",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "FID": 0,
+    "id": "0",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.32715148700004,
+    "y": 30.487372648000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 1,
+    "id": "1",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.32729425500008,
+    "y": 30.489085860000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 2,
+    "id": "2",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.32797240100001,
+    "y": 30.491869829000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 3,
+    "id": "3",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.32907885100008,
+    "y": 30.495581788000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 4,
+    "id": "4",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.33097052200003,
+    "y": 30.50143526200003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 5,
+    "id": "5",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3312917500001,
+    "y": 30.50307709100008
+   }
+  },
+  {
+   "attributes": {
+    "FID": 6,
+    "id": "6",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.33257665800011,
+    "y": 30.505753984000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 7,
+    "id": "7",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.33443263800007,
+    "y": 30.508109651000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 8,
+    "id": "8",
+    "name": "上水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.33550339600004,
+    "y": 30.509430251000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 9,
+    "id": "9",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.3287576240001,
+    "y": 30.510893620000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 10,
+    "id": "10",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3236893720001,
+    "y": 30.511821610000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 11,
+    "id": "11",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31908511500001,
+    "y": 30.512071453000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 12,
+    "id": "12",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.30855600000007,
+    "y": 30.512000069000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 13,
+    "id": "13",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30409451000003,
+    "y": 30.511857302000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 14,
+    "id": "14",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30413020200001,
+    "y": 30.515390801000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 15,
+    "id": "15",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30869876700001,
+    "y": 30.515248034000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 16,
+    "id": "16",
+    "name": "上水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31394547900004,
+    "y": 30.515319417000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 17,
+    "id": "17",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.32108386200002,
+    "y": 30.515176650000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 18,
+    "id": "18",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30355913200003,
+    "y": 30.506967509000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 19,
+    "id": "19",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30830615600007,
+    "y": 30.506753358000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 20,
+    "id": "20",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31469500900005,
+    "y": 30.506717666000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 21,
+    "id": "21",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.31990602900009,
+    "y": 30.50668197400006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 22,
+    "id": "22",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.32022725600007,
+    "y": 30.499793434000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 23,
+    "id": "23",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30959106500006,
+    "y": 30.499900510000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 24,
+    "id": "24",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.3024169900001,
+    "y": 30.500150354000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 25,
+    "id": "25",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28436580400012,
+    "y": 30.50060542500006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 26,
+    "id": "26",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29045722400008,
+    "y": 30.507267916000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 27,
+    "id": "27",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.29388364800002,
+    "y": 30.514501478000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 28,
+    "id": "28",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29483543300012,
+    "y": 30.519831470000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 29,
+    "id": "29",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3081604140001,
+    "y": 30.528111995000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 30,
+    "id": "30",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.32167575300002,
+    "y": 30.518594151000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 31,
+    "id": "31",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.33538144800002,
+    "y": 30.513359336000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 32,
+    "id": "32",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3434716160001,
+    "y": 30.512122017000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 33,
+    "id": "33",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3496582140001,
+    "y": 30.512312374000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 34,
+    "id": "34",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35565445600002,
+    "y": 30.511741303000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 35,
+    "id": "35",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.31187237300003,
+    "y": 30.535631091000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 36,
+    "id": "36",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31596504600009,
+    "y": 30.547242861000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 37,
+    "id": "37",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.33395377200009,
+    "y": 30.540580370000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 38,
+    "id": "38",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.34670768300009,
+    "y": 30.537439482000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 39,
+    "id": "39",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35603517000004,
+    "y": 30.533061274000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 40,
+    "id": "40",
+    "name": "雨水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.36612408400003,
+    "y": 30.530110742000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 41,
+    "id": "41",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.3708830060001,
+    "y": 30.534584129000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 42,
+    "id": "42",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.37078782800006,
+    "y": 30.538296088000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 43,
+    "id": "43",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.36441087200001,
+    "y": 30.543626080000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 44,
+    "id": "44",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35470267200003,
+    "y": 30.543816437000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 45,
+    "id": "45",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.34918232200005,
+    "y": 30.547813932000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 46,
+    "id": "46",
+    "name": "雨水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.33928376400002,
+    "y": 30.547623575000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 47,
+    "id": "47",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3405210840001,
+    "y": 30.554000530000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 48,
+    "id": "48",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.3895522570001,
+    "y": 30.503908117000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 49,
+    "id": "49",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.37420473400005,
+    "y": 30.499268168000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 50,
+    "id": "50",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥,"
+   },
+   "geometry": {
+    "x": 114.3317313550001,
+    "y": 30.474997666000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 51,
+    "id": "51",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30888852900011,
+    "y": 30.481422211000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 52,
+    "id": "52",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28747338000005,
+    "y": 30.493200543000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 53,
+    "id": "53",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.23215091200007,
+    "y": 30.527107862000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 54,
+    "id": "54",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.20788041000003,
+    "y": 30.542098466000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 55,
+    "id": "55",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.18967753300001,
+    "y": 30.546381496000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 56,
+    "id": "56",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.18503758400004,
+    "y": 30.539243113000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 57,
+    "id": "57",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.17468692900002,
+    "y": 30.553876798000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 58,
+    "id": "58",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.17076081800008,
+    "y": 30.572793513000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 59,
+    "id": "59",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.1889636950001,
+    "y": 30.587784118000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 60,
+    "id": "60",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.19967126900008,
+    "y": 30.595279420000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 61,
+    "id": "61",
+    "name": "雨水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.22072949900007,
+    "y": 30.583501088000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 62,
+    "id": "62",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.24464308200004,
+    "y": 30.571008918000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 63,
+    "id": "63",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.26498747400001,
+    "y": 30.569581241000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 64,
+    "id": "64",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.27926424000009,
+    "y": 30.571008918000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 65,
+    "id": "65",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.23250783100002,
+    "y": 30.595636339000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 66,
+    "id": "66",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.24892611200005,
+    "y": 30.600276288000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 67,
+    "id": "67",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.25178146500002,
+    "y": 30.607414671000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 68,
+    "id": "68",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.24821227400002,
+    "y": 30.615980731000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 69,
+    "id": "69",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.26320287800002,
+    "y": 30.605986994000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 70,
+    "id": "70",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28283343100009,
+    "y": 30.620620680000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 71,
+    "id": "71",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.27426737200005,
+    "y": 30.609556186000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 72,
+    "id": "72",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29068565300008,
+    "y": 30.609913105000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 73,
+    "id": "73",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29389792500001,
+    "y": 30.600990126000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 74,
+    "id": "74",
+    "name": "上水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30103630800011,
+    "y": 30.606343914000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 75,
+    "id": "75",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.26498747400001,
+    "y": 30.588854875000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 76,
+    "id": "76",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25677833300006,
+    "y": 30.582430330000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 77,
+    "id": "77",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28390418900005,
+    "y": 30.591710228000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 78,
+    "id": "78",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.31031620600004,
+    "y": 30.623832952000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 79,
+    "id": "79",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31531307400007,
+    "y": 30.629900578000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 80,
+    "id": "80",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31745458900002,
+    "y": 30.633469769000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 81,
+    "id": "81",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29247024800009,
+    "y": 30.637752799000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 82,
+    "id": "82",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.29247024800009,
+    "y": 30.629543658000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 83,
+    "id": "83",
+    "name": "上水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29532560200005,
+    "y": 30.649174212000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 84,
+    "id": "84",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28140575500004,
+    "y": 30.643820424000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 85,
+    "id": "85",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.26712898900007,
+    "y": 30.63989431400006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 86,
+    "id": "86",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.24535692000006,
+    "y": 30.630614416000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 87,
+    "id": "87",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.22429869100006,
+    "y": 30.620263760000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 88,
+    "id": "88",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.20181278400003,
+    "y": 30.620620680000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 89,
+    "id": "89",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.18289606900009,
+    "y": 30.620263760000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 90,
+    "id": "90",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.16969006000011,
+    "y": 30.620263760000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 91,
+    "id": "91",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35457418100009,
+    "y": 30.587427199000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 92,
+    "id": "92",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.36885094700006,
+    "y": 30.597064016000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 93,
+    "id": "93",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.3799154400001,
+    "y": 30.602774722000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 94,
+    "id": "94",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.39633372100002,
+    "y": 30.60420239900003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 95,
+    "id": "95",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.39883215500004,
+    "y": 30.615623812000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 96,
+    "id": "96",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.37099246200012,
+    "y": 30.61134078200007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 97,
+    "id": "97",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.35885721000011,
+    "y": 30.600276288000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 98,
+    "id": "98",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.38848150000001,
+    "y": 30.614553054000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 99,
+    "id": "99",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.34707887800005,
+    "y": 30.593494824000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 100,
+    "id": "100",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.3317313550001,
+    "y": 30.585285684000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 101,
+    "id": "101",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.3431527680001,
+    "y": 30.582073411000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 102,
+    "id": "102",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.32637756800011,
+    "y": 30.576362705000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 103,
+    "id": "103",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.32066686100006,
+    "y": 30.577433462000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 104,
+    "id": "104",
+    "name": "上水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.30103630800011,
+    "y": 30.529606296000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 105,
+    "id": "105",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.30817469100009,
+    "y": 30.541027709000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 106,
+    "id": "106",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.30995928700008,
+    "y": 30.552092203000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 107,
+    "id": "107",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.27498121000008,
+    "y": 30.488203675000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 108,
+    "id": "108",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.26855666500001,
+    "y": 30.479280696000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 109,
+    "id": "109",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.38990917700005,
+    "y": 30.481422211000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 110,
+    "id": "110",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.39205069100001,
+    "y": 30.494628219000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 111,
+    "id": "111",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.40204442800007,
+    "y": 30.493914381000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 112,
+    "id": "112",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.41881962800005,
+    "y": 30.488203675000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 113,
+    "id": "113",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.40846897200004,
+    "y": 30.502837360000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 114,
+    "id": "114",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.3974044790001,
+    "y": 30.506763471000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 115,
+    "id": "115",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.38419847000011,
+    "y": 30.516043368000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 116,
+    "id": "116",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.37384781500009,
+    "y": 30.519612560000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 117,
+    "id": "117",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.35564493800007,
+    "y": 30.526750943000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 118,
+    "id": "118",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.34029741500001,
+    "y": 30.531033973000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 119,
+    "id": "119",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.33958357600011,
+    "y": 30.521040237000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 120,
+    "id": "120",
+    "name": "上水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.34922039300011,
+    "y": 30.519612560000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 121,
+    "id": "121",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.36314024000001,
+    "y": 30.51818488300006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 122,
+    "id": "122",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.37491857200007,
+    "y": 30.514972611000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 123,
+    "id": "123",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.39276453000002,
+    "y": 30.515329530000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 124,
+    "id": "124",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.39990291300001,
+    "y": 30.515686449000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 125,
+    "id": "125",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.41275200200005,
+    "y": 30.512474177000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 126,
+    "id": "126",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.42524417200002,
+    "y": 30.51283109600007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 127,
+    "id": "127",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.43202563600005,
+    "y": 30.507120390000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 128,
+    "id": "128",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.44416088700007,
+    "y": 30.503908117000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 129,
+    "id": "129",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.44201937300011,
+    "y": 30.491772866000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 130,
+    "id": "130",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.43273947500006,
+    "y": 30.480351453000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 131,
+    "id": "131",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.43095487900007,
+    "y": 30.486775998000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 132,
+    "id": "132",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.44201937300011,
+    "y": 30.487489836000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 133,
+    "id": "133",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.44130553400009,
+    "y": 30.513188015000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 134,
+    "id": "134",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.44416088700007,
+    "y": 30.524252509000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 135,
+    "id": "135",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30032247000008,
+    "y": 30.544953820000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 136,
+    "id": "136",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.2949686820001,
+    "y": 30.549593769000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 137,
+    "id": "137",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29211332900002,
+    "y": 30.534603164000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 138,
+    "id": "138",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28747338000005,
+    "y": 30.522467913000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 139,
+    "id": "139",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.28426110800001,
+    "y": 30.513544934000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 140,
+    "id": "140",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.27855040100007,
+    "y": 30.507834228000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 141,
+    "id": "141",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.27034126100011,
+    "y": 30.502123522000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 142,
+    "id": "142",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.2624890400001,
+    "y": 30.49605589600003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 143,
+    "id": "143",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.25713525200001,
+    "y": 30.488917513000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 144,
+    "id": "144",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25677833300006,
+    "y": 30.482136049000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 145,
+    "id": "145",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.28890105700009,
+    "y": 30.468930041000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 146,
+    "id": "146",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.31281464000006,
+    "y": 30.472499232000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 147,
+    "id": "147",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35564493800007,
+    "y": 30.476425343000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 148,
+    "id": "148",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.22287101400002,
+    "y": 30.532818569000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 149,
+    "id": "149",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.20966500500003,
+    "y": 30.527464781000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 150,
+    "id": "150",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.21323419700002,
+    "y": 30.519612560000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 151,
+    "id": "151",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.23215091200007,
+    "y": 30.517827964000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 152,
+    "id": "152",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.24178772900007,
+    "y": 30.512474177000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 153,
+    "id": "153",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25178146500002,
+    "y": 30.54673841500005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 154,
+    "id": "154",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25427989900004,
+    "y": 30.539956952000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 155,
+    "id": "155",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.24500000100011,
+    "y": 30.528178620000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 156,
+    "id": "156",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25463681800011,
+    "y": 30.531390892000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 157,
+    "id": "157",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.26141828200002,
+    "y": 30.539600032000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 158,
+    "id": "158",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.21359111600009,
+    "y": 30.555661394000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 159,
+    "id": "159",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.21537571200008,
+    "y": 30.566368969000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 160,
+    "id": "160",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.21751722700003,
+    "y": 30.570295079000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 161,
+    "id": "161",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.19039137100003,
+    "y": 30.539956952000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 162,
+    "id": "162",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.19752975400002,
+    "y": 30.548523011000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 163,
+    "id": "163",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.20538197600001,
+    "y": 30.567082807000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 164,
+    "id": "164",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.18789293700002,
+    "y": 30.573150433000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 165,
+    "id": "165",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.19681591600011,
+    "y": 30.579218058000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 166,
+    "id": "166",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.20466813700011,
+    "y": 30.605630075000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 167,
+    "id": "167",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.21109268200007,
+    "y": 30.60420239900003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 168,
+    "id": "168",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.21823106500005,
+    "y": 30.613482297000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 169,
+    "id": "169",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.23750469900006,
+    "y": 30.620620680000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 170,
+    "id": "170",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25427989900004,
+    "y": 30.626688305000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 171,
+    "id": "171",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.26748590800003,
+    "y": 30.630257497000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 172,
+    "id": "172",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.27783656300005,
+    "y": 30.630971335000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 173,
+    "id": "173",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30067938900004,
+    "y": 30.640965071000039
+   }
+  },
+  {
+   "attributes": {
+    "FID": 174,
+    "id": "174",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.30210706500009,
+    "y": 30.648817293000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 175,
+    "id": "175",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.29996555100001,
+    "y": 30.65488491800005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 176,
+    "id": "176",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥"
+   },
+   "geometry": {
+    "x": 114.27926424000009,
+    "y": 30.649174212000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 177,
+    "id": "177",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.26962742300009,
+    "y": 30.648817293000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 178,
+    "id": "178",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.26177520100009,
+    "y": 30.628829820000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 179,
+    "id": "179",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.25713525200001,
+    "y": 30.60705775200006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 180,
+    "id": "180",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.27105509900002,
+    "y": 30.616337650000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 181,
+    "id": "181",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.183609907,
+    "y": 30.603131641000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 182,
+    "id": "182",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.18932061400005,
+    "y": 30.61241153900005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 183,
+    "id": "183",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.24357232500006,
+    "y": 30.600276288000032
+   }
+  },
+  {
+   "attributes": {
+    "FID": 184,
+    "id": "184",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.24214464800002,
+    "y": 30.589568714000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 185,
+    "id": "185",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.25392298000008,
+    "y": 30.592067148000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 186,
+    "id": "186",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25071070800004,
+    "y": 30.586713360000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 187,
+    "id": "187",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压"
+   },
+   "geometry": {
+    "x": 114.24821227400002,
+    "y": 30.584571845000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 188,
+    "id": "188",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.25142454600007,
+    "y": 30.575648867000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 189,
+    "id": "189",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁"
+   },
+   "geometry": {
+    "x": 114.34350968700005,
+    "y": 30.563156696000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 190,
+    "id": "190",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35207574700007,
+    "y": 30.573507352000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 191,
+    "id": "191",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.35921413000005,
+    "y": 30.583501088000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 192,
+    "id": "192",
+    "name": "污水井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.36706635100006,
+    "y": 30.587070279000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 193,
+    "id": "193",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.38027235900006,
+    "y": 30.59456558200003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 194,
+    "id": "194",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.39383528700012,
+    "y": 30.598134773000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 195,
+    "id": "195",
+    "name": "街道井盖",
+    "DeptName1": "供排水总公司",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合材料"
+   },
+   "geometry": {
+    "x": 114.40846897200004,
+    "y": 30.600633207000044
+   }
+  }
+ ]
+}

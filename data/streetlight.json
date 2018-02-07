@@ -1,0 +1,3510 @@
+{
+ "displayFieldName": "id",
+ "fieldAliases": {
+  "FID": "FID",
+  "id": "id",
+  "name": "name",
+  "DISTRICT": "DISTRICT",
+  "ObjState": "ObjState",
+  "DataSource": "DataSource",
+  "Material": "Material",
+  "DEPTNAME1": "DEPTNAME1",
+  "DEPTNAME2": "DEPTNAME2"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "FID",
+   "type": "esriFieldTypeOID",
+   "alias": "FID"
+  },
+  {
+   "name": "id",
+   "type": "esriFieldTypeString",
+   "alias": "id",
+   "length": 50
+  },
+  {
+   "name": "name",
+   "type": "esriFieldTypeString",
+   "alias": "name",
+   "length": 50
+  },
+  {
+   "name": "DISTRICT",
+   "type": "esriFieldTypeString",
+   "alias": "DISTRICT",
+   "length": 50
+  },
+  {
+   "name": "ObjState",
+   "type": "esriFieldTypeString",
+   "alias": "ObjState",
+   "length": 50
+  },
+  {
+   "name": "DataSource",
+   "type": "esriFieldTypeString",
+   "alias": "DataSource",
+   "length": 50
+  },
+  {
+   "name": "Material",
+   "type": "esriFieldTypeString",
+   "alias": "Material",
+   "length": 50
+  },
+  {
+   "name": "DEPTNAME1",
+   "type": "esriFieldTypeString",
+   "alias": "DEPTNAME1",
+   "length": 50
+  },
+  {
+   "name": "DEPTNAME2",
+   "type": "esriFieldTypeString",
+   "alias": "DEPTNAME2",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "FID": 0,
+    "id": "0",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30165373300008,
+    "y": 30.658660138000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 1,
+    "id": "1",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30289105200006,
+    "y": 30.655652500000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 2,
+    "id": "2",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30359537300001,
+    "y": 30.654015430000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 3,
+    "id": "3",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30471847800004,
+    "y": 30.651179113000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 4,
+    "id": "4",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30580351300011,
+    "y": 30.648457010000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 5,
+    "id": "5",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31204721800009,
+    "y": 30.650684185000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 6,
+    "id": "6",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31461703600007,
+    "y": 30.65161693400006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 7,
+    "id": "7",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31431246500006,
+    "y": 30.654795894000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 8,
+    "id": "8",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31346537700006,
+    "y": 30.658341291000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 9,
+    "id": "9",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31275153900003,
+    "y": 30.662196017000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 10,
+    "id": "10",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30921803900003,
+    "y": 30.641494707000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 11,
+    "id": "11",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31185924100009,
+    "y": 30.636426455000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 12,
+    "id": "12",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32135329000005,
+    "y": 30.639281808000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 13,
+    "id": "13",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32510094100007,
+    "y": 30.64656295900005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 14,
+    "id": "14",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32734953200008,
+    "y": 30.652773352000054
+   }
+  },
+  {
+   "attributes": {
+    "FID": 15,
+    "id": "15",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32167451700002,
+    "y": 30.654165337000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 16,
+    "id": "16",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32559765400003,
+    "y": 30.655887471000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 17,
+    "id": "17",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32793904300001,
+    "y": 30.655501999000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 18,
+    "id": "18",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32972363900001,
+    "y": 30.659685091000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 19,
+    "id": "19",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33135119100007,
+    "y": 30.664196549000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 20,
+    "id": "20",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.3234418620001,
+    "y": 30.668793668000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 21,
+    "id": "21",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32725375900009,
+    "y": 30.672205815000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 22,
+    "id": "22",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33400666900002,
+    "y": 30.669469435000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 23,
+    "id": "23",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34242044300004,
+    "y": 30.666157225000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 24,
+    "id": "24",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34914004100006,
+    "y": 30.667756223000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 25,
+    "id": "25",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34514254600003,
+    "y": 30.671220718000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 26,
+    "id": "26",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35650685200005,
+    "y": 30.67550374800004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 27,
+    "id": "27",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35728731500001,
+    "y": 30.680472063000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 28,
+    "id": "28",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36724298000001,
+    "y": 30.684336307000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 29,
+    "id": "29",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37021254800004,
+    "y": 30.680262670000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 30,
+    "id": "30",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37987315900011,
+    "y": 30.685176257000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 31,
+    "id": "31",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38076545700005,
+    "y": 30.683605813000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 32,
+    "id": "32",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36559639300003,
+    "y": 30.675111137000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 33,
+    "id": "33",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.39763345600011,
+    "y": 30.650433747000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 34,
+    "id": "34",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.393550301,
+    "y": 30.648891856000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 35,
+    "id": "35",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.3895242530001,
+    "y": 30.647335689000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 36,
+    "id": "36",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38525550000008,
+    "y": 30.645622477000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 37,
+    "id": "37",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38138649700011,
+    "y": 30.643766497000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 38,
+    "id": "38",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37580428100011,
+    "y": 30.640725546000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 39,
+    "id": "39",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37257773200008,
+    "y": 30.63891239700007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 40,
+    "id": "40",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.3682233180001,
+    "y": 30.636256918000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 41,
+    "id": "41",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37414817600006,
+    "y": 30.62943262400006
+   }
+  },
+  {
+   "attributes": {
+    "FID": 42,
+    "id": "42",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37750321600004,
+    "y": 30.631488478000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 43,
+    "id": "43",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36119914900007,
+    "y": 30.632030995000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 44,
+    "id": "44",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35311850000005,
+    "y": 30.626320289000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 45,
+    "id": "45",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34897823800009,
+    "y": 30.622751097000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 46,
+    "id": "46",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34619426800009,
+    "y": 30.620209833000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 47,
+    "id": "47",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34954930800006,
+    "y": 30.61694045400003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 48,
+    "id": "48",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35193352800002,
+    "y": 30.614641894000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 49,
+    "id": "49",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.3563022190001,
+    "y": 30.617896997000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 50,
+    "id": "50",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35870071500005,
+    "y": 30.619767253000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 51,
+    "id": "51",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36089933700009,
+    "y": 30.617482971000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 52,
+    "id": "52",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36312651300011,
+    "y": 30.622536946000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 53,
+    "id": "53",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36689557900002,
+    "y": 30.624906889000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 54,
+    "id": "54",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38142932700009,
+    "y": 30.633829868000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 55,
+    "id": "55",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38556958900006,
+    "y": 30.636399686000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 56,
+    "id": "56",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "高分子模压",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.39182281300009,
+    "y": 30.63951202100003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 57,
+    "id": "57",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.39777622400004,
+    "y": 30.642424481000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 58,
+    "id": "58",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40138824600001,
+    "y": 30.644223354000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 59,
+    "id": "59",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市路政管理处",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.4054856780001,
+    "y": 30.645922289000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 60,
+    "id": "60",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.4062709000001,
+    "y": 30.643752220000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 61,
+    "id": "61",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40667064900003,
+    "y": 30.639968877000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 62,
+    "id": "62",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40642794400003,
+    "y": 30.631488478000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 63,
+    "id": "63",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40512875800005,
+    "y": 30.632116656000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 64,
+    "id": "64",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40251611000008,
+    "y": 30.63258778900007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 65,
+    "id": "65",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.41206726700011,
+    "y": 30.630860301000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 66,
+    "id": "66",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.41864885600012,
+    "y": 30.629532561000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 67,
+    "id": "67",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.42303182300009,
+    "y": 30.631973888000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 68,
+    "id": "68",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.42308893000006,
+    "y": 30.627134065000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 69,
+    "id": "69",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.4262869260001,
+    "y": 30.624735568000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 70,
+    "id": "70",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.42992750100007,
+    "y": 30.622122920000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 71,
+    "id": "71",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.43720865200009,
+    "y": 30.621323421000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 72,
+    "id": "72",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.42875680600002,
+    "y": 30.620966502000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 73,
+    "id": "73",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.41463708500009,
+    "y": 30.621480465000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 74,
+    "id": "74",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40934040400009,
+    "y": 30.62150901900003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 75,
+    "id": "75",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.39986063200001,
+    "y": 30.621409081000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 76,
+    "id": "76",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.3951207450001,
+    "y": 30.621409081000024
+   }
+  },
+  {
+   "attributes": {
+    "FID": 77,
+    "id": "77",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38612638300003,
+    "y": 30.62136625100004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 78,
+    "id": "78",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38154354100004,
+    "y": 30.621466189000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 79,
+    "id": "79",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37667516400006,
+    "y": 30.619638762000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 80,
+    "id": "80",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37113577900004,
+    "y": 30.617140328000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 81,
+    "id": "81",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36605325000005,
+    "y": 30.614827492000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 82,
+    "id": "82",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35892914400006,
+    "y": 30.610644400000069
+   }
+  },
+  {
+   "attributes": {
+    "FID": 83,
+    "id": "83",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34909245200004,
+    "y": 30.603677338000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 84,
+    "id": "84",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33805651200009,
+    "y": 30.602135447000023
+   }
+  },
+  {
+   "attributes": {
+    "FID": 85,
+    "id": "85",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33193177900012,
+    "y": 30.596353357000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 86,
+    "id": "86",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32704912500003,
+    "y": 30.591484980000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 87,
+    "id": "87",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32419377200006,
+    "y": 30.588272707000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 88,
+    "id": "88",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32059602700008,
+    "y": 30.584232383000028
+   }
+  },
+  {
+   "attributes": {
+    "FID": 89,
+    "id": "89",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31394305400011,
+    "y": 30.576622866000037
+   }
+  },
+  {
+   "attributes": {
+    "FID": 90,
+    "id": "90",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30853215900004,
+    "y": 30.570954990000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 91,
+    "id": "91",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31161594100001,
+    "y": 30.567971146000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 92,
+    "id": "92",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31177298500006,
+    "y": 30.557634768000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 93,
+    "id": "93",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31041669300009,
+    "y": 30.556164261000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 94,
+    "id": "94",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30079415200009,
+    "y": 30.55762049100008
+   }
+  },
+  {
+   "attributes": {
+    "FID": 95,
+    "id": "95",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31264386800001,
+    "y": 30.551167393000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 96,
+    "id": "96",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31322921500009,
+    "y": 30.546113417000072
+   }
+  },
+  {
+   "attributes": {
+    "FID": 97,
+    "id": "97",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31454267800007,
+    "y": 30.542330074000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 98,
+    "id": "98",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31745513800001,
+    "y": 30.540574032000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 99,
+    "id": "99",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32246628300004,
+    "y": 30.537890000000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 100,
+    "id": "100",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.3297046030001,
+    "y": 30.544471589000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 101,
+    "id": "101",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33384486600005,
+    "y": 30.552038275000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 102,
+    "id": "102",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33638613000005,
+    "y": 30.556849545000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 103,
+    "id": "103",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33878918400001,
+    "y": 30.613580392000074
+   }
+  },
+  {
+   "attributes": {
+    "FID": 104,
+    "id": "104",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33755186400003,
+    "y": 30.612057537000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 105,
+    "id": "105",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32703464600002,
+    "y": 30.600969249000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 106,
+    "id": "106",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31190127400009,
+    "y": 30.610629861000064
+   }
+  },
+  {
+   "attributes": {
+    "FID": 107,
+    "id": "107",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30304967900008,
+    "y": 30.616102621000039
+   }
+  },
+  {
+   "attributes": {
+    "FID": 108,
+    "id": "108",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.29500710100001,
+    "y": 30.620576008000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 109,
+    "id": "109",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28491818700002,
+    "y": 30.626286714000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 110,
+    "id": "110",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28149176300008,
+    "y": 30.632663670000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 111,
+    "id": "111",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28310979600008,
+    "y": 30.642371870000034
+   }
+  },
+  {
+   "attributes": {
+    "FID": 112,
+    "id": "112",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.29048612500003,
+    "y": 30.657981135000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 113,
+    "id": "113",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.29196139100009,
+    "y": 30.662835235000045
+   }
+  },
+  {
+   "attributes": {
+    "FID": 114,
+    "id": "114",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26792883500002,
+    "y": 30.649867173000075
+   }
+  },
+  {
+   "attributes": {
+    "FID": 115,
+    "id": "115",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26378857300006,
+    "y": 30.64501307200004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 116,
+    "id": "116",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.25629327100012,
+    "y": 30.633782016000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 117,
+    "id": "117",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.25781612600008,
+    "y": 30.619219715000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 118,
+    "id": "118",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26619182800005,
+    "y": 30.621218462000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 119,
+    "id": "119",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28208662800012,
+    "y": 30.627690596000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 120,
+    "id": "120",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30207410000003,
+    "y": 30.632925410000041
+   }
+  },
+  {
+   "attributes": {
+    "FID": 121,
+    "id": "121",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.24420560900001,
+    "y": 30.61512704200004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 122,
+    "id": "122",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.22783491700011,
+    "y": 30.608654908000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 123,
+    "id": "123",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.19737781600008,
+    "y": 30.612081332000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 124,
+    "id": "124",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.18053123200002,
+    "y": 30.613889722000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 125,
+    "id": "125",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.17796141400004,
+    "y": 30.607036875000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 126,
+    "id": "126",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.19014425500006,
+    "y": 30.601326168000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 127,
+    "id": "127",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.17491570400011,
+    "y": 30.594473320000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 128,
+    "id": "128",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.1820540870001,
+    "y": 30.588286722000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 129,
+    "id": "129",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.17719998700011,
+    "y": 30.578768878000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 130,
+    "id": "130",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.19652121000001,
+    "y": 30.589333685000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 131,
+    "id": "131",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.20603905400003,
+    "y": 30.588001186000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 132,
+    "id": "132",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.2144147570001,
+    "y": 30.579911019000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 133,
+    "id": "133",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.23308277100011,
+    "y": 30.57783493900007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 134,
+    "id": "134",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.24574150300009,
+    "y": 30.573742266000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 135,
+    "id": "135",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26168389200006,
+    "y": 30.56612799100003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 136,
+    "id": "136",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27691244200003,
+    "y": 30.566270759000076
+   }
+  },
+  {
+   "attributes": {
+    "FID": 137,
+    "id": "137",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28880974700007,
+    "y": 30.576407263000078
+   }
+  },
+  {
+   "attributes": {
+    "FID": 138,
+    "id": "138",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27972020600009,
+    "y": 30.587923854000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 139,
+    "id": "139",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28804832000003,
+    "y": 30.597060984000052
+   }
+  },
+  {
+   "attributes": {
+    "FID": 140,
+    "id": "140",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27919672500002,
+    "y": 30.607149899000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 141,
+    "id": "141",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27310530500006,
+    "y": 30.601391603000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 142,
+    "id": "142",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26687111700005,
+    "y": 30.598488661000033
+   }
+  },
+  {
+   "attributes": {
+    "FID": 143,
+    "id": "143",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.25944719900008,
+    "y": 30.596394735000047
+   }
+  },
+  {
+   "attributes": {
+    "FID": 144,
+    "id": "144",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28305145200011,
+    "y": 30.61214676700007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 145,
+    "id": "145",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28957117500011,
+    "y": 30.61814300900005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 146,
+    "id": "146",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37297467200005,
+    "y": 30.58906453000003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 147,
+    "id": "147",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35622326600003,
+    "y": 30.561272425000027
+   }
+  },
+  {
+   "attributes": {
+    "FID": 148,
+    "id": "148",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34860899100011,
+    "y": 30.548518514000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 149,
+    "id": "149",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37050003200011,
+    "y": 30.531576752000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 150,
+    "id": "150",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36555075300009,
+    "y": 30.521868551000068
+   }
+  },
+  {
+   "attributes": {
+    "FID": 151,
+    "id": "151",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34480185300004,
+    "y": 30.531576752000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 152,
+    "id": "152",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34175614300011,
+    "y": 30.506640000000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 153,
+    "id": "153",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35869790600009,
+    "y": 30.506068930000026
+   }
+  },
+  {
+   "attributes": {
+    "FID": 154,
+    "id": "154",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38268287200003,
+    "y": 30.493695732000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 155,
+    "id": "155",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.41751818200009,
+    "y": 30.498454654000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 156,
+    "id": "156",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.43560208500003,
+    "y": 30.492553591000046
+   }
+  },
+  {
+   "attributes": {
+    "FID": 157,
+    "id": "157",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.42132531900006,
+    "y": 30.535003175000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 158,
+    "id": "158",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38706108100007,
+    "y": 30.574216693000039
+   }
+  },
+  {
+   "attributes": {
+    "FID": 159,
+    "id": "159",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.39182000300002,
+    "y": 30.608100218000061
+   }
+  },
+  {
+   "attributes": {
+    "FID": 160,
+    "id": "160",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40914247900002,
+    "y": 30.611145928000042
+   }
+  },
+  {
+   "attributes": {
+    "FID": 161,
+    "id": "161",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38820322200002,
+    "y": 30.589445243000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 162,
+    "id": "162",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.22460909100005,
+    "y": 30.554289468000036
+   }
+  },
+  {
+   "attributes": {
+    "FID": 163,
+    "id": "163",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.19913020400008,
+    "y": 30.560772262000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 164,
+    "id": "164",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.18872758100008,
+    "y": 30.576903866000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 165,
+    "id": "165",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.22491061700009,
+    "y": 30.567255056000079
+   }
+  },
+  {
+   "attributes": {
+    "FID": 166,
+    "id": "166",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.23893154300004,
+    "y": 30.561073788000044
+   }
+  },
+  {
+   "attributes": {
+    "FID": 167,
+    "id": "167",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.17289750300006,
+    "y": 30.56635048000004
+   }
+  },
+  {
+   "attributes": {
+    "FID": 168,
+    "id": "168",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.19370274800008,
+    "y": 30.52609685300007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 169,
+    "id": "169",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.22129231300005,
+    "y": 30.510266775000048
+   }
+  },
+  {
+   "attributes": {
+    "FID": 170,
+    "id": "170",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.22822739500009,
+    "y": 30.507703810000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 171,
+    "id": "171",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.20320079500004,
+    "y": 30.559566161000077
+   }
+  },
+  {
+   "attributes": {
+    "FID": 172,
+    "id": "172",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26757644600002,
+    "y": 30.538459390000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 173,
+    "id": "173",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.24209755900006,
+    "y": 30.52564456500005
+   }
+  },
+  {
+   "attributes": {
+    "FID": 174,
+    "id": "174",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.24164527100004,
+    "y": 30.544339133000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 175,
+    "id": "175",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.26018907600007,
+    "y": 30.555495570000062
+   }
+  },
+  {
+   "attributes": {
+    "FID": 176,
+    "id": "176",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27858212000001,
+    "y": 30.558661585000038
+   }
+  },
+  {
+   "attributes": {
+    "FID": 177,
+    "id": "177",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27949621300002,
+    "y": 30.493874763000065
+   }
+  },
+  {
+   "attributes": {
+    "FID": 178,
+    "id": "178",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.29891261500006,
+    "y": 30.476361930000053
+   }
+  },
+  {
+   "attributes": {
+    "FID": 179,
+    "id": "179",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32213615500007,
+    "y": 30.480169068000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 180,
+    "id": "180",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33584185000007,
+    "y": 30.496539759000029
+   }
+  },
+  {
+   "attributes": {
+    "FID": 181,
+    "id": "181",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.29624761900004,
+    "y": 30.520905440000035
+   }
+  },
+  {
+   "attributes": {
+    "FID": 182,
+    "id": "182",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.34440791000009,
+    "y": 30.482834064000031
+   }
+  },
+  {
+   "attributes": {
+    "FID": 183,
+    "id": "183",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35621003600011,
+    "y": 30.482262993000063
+   }
+  },
+  {
+   "attributes": {
+    "FID": 184,
+    "id": "184",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.36896394700011,
+    "y": 30.484547276000058
+   }
+  },
+  {
+   "attributes": {
+    "FID": 185,
+    "id": "185",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37600715200006,
+    "y": 30.482453350000071
+   }
+  },
+  {
+   "attributes": {
+    "FID": 186,
+    "id": "186",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.38324071300008,
+    "y": 30.482072636000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 187,
+    "id": "187",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.29606792200002,
+    "y": 30.559668573000067
+   }
+  },
+  {
+   "attributes": {
+    "FID": 188,
+    "id": "188",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28913284000009,
+    "y": 30.551225865000049
+   }
+  },
+  {
+   "attributes": {
+    "FID": 189,
+    "id": "189",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.30616902000008,
+    "y": 30.566754418000073
+   }
+  },
+  {
+   "attributes": {
+    "FID": 190,
+    "id": "190",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.28611758700004,
+    "y": 30.56946814500003
+   }
+  },
+  {
+   "attributes": {
+    "FID": 191,
+    "id": "191",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市江汉区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.27496115100007,
+    "y": 30.551979678000066
+   }
+  },
+  {
+   "attributes": {
+    "FID": 192,
+    "id": "192",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33164790700005,
+    "y": 30.534792736000043
+   }
+  },
+  {
+   "attributes": {
+    "FID": 193,
+    "id": "193",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "水泥",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.33556773600003,
+    "y": 30.514138253000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 194,
+    "id": "194",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.35712679500011,
+    "y": 30.512178339000059
+   }
+  },
+  {
+   "attributes": {
+    "FID": 195,
+    "id": "195",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市执法局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.37627365100002,
+    "y": 30.507806222000056
+   }
+  },
+  {
+   "attributes": {
+    "FID": 196,
+    "id": "196",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.31114418700008,
+    "y": 30.525143926000055
+   }
+  },
+  {
+   "attributes": {
+    "FID": 197,
+    "id": "197",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "树脂",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.32606968900006,
+    "y": 30.520168759000057
+   }
+  },
+  {
+   "attributes": {
+    "FID": 198,
+    "id": "198",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.41245668700003,
+    "y": 30.49951427600007
+   }
+  },
+  {
+   "attributes": {
+    "FID": 199,
+    "id": "199",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "破损",
+    "DataSource": "实测",
+    "Material": "复合",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.42557303800004,
+    "y": 30.494388346000051
+   }
+  },
+  {
+   "attributes": {
+    "FID": 200,
+    "id": "200",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "铸铁",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.40130025100007,
+    "y": 30.482176571000025
+   }
+  },
+  {
+   "attributes": {
+    "FID": 201,
+    "id": "201",
+    "name": "街道路灯表",
+    "DISTRICT": "武汉市武昌区",
+    "ObjState": "完好",
+    "DataSource": "实测",
+    "Material": "硅塑",
+    "DEPTNAME1": "武汉市林业局",
+    "DEPTNAME2": "武汉市执法局"
+   },
+   "geometry": {
+    "x": 114.4208993960001,
+    "y": 30.48036742000005
+   }
+  }
+ ]
+}

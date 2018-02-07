@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow: hidden;
+}
+
+.bi-corner,
+.page_header {
+    background: rgba(2, 30, 70, 0.8);
+}
+
+.module_h35 {
+    width: 302px;
+    padding: 10px;
+    height: calc(35% - 22px);
+}
+
+.module_h65 {
+    width: 302px;
+    padding: 10px;
+    height: calc(65% - 22px);
+}
+
+.module_h42 {
+    width: 302px;
+    padding: 10px;
+    height: calc(42% - 22px);
+}
+
+.module_h45 {
+    width: 302px;
+    padding: 10px;
+    height: calc(45% - 22px);
+}
+
+.module_h55 {
+    width: 302px;
+    padding: 10px;
+    height: calc(55% - 22px);
+}
+
+.module_h58 {
+    width: 302px;
+    padding: 10px;
+    height: calc(58% - 22px);
+}
+
+.module_h50 {
+    width: 302px;
+    padding: 10px;
+    height: calc(50% - 22px);
+}
+
+.module_h100 {
+    width: 302px;
+    padding: 10px;
+    height: calc(100% - 22px);
+}
+
+.module_bottom_center {
+    width: calc(100% - 22px);
+    height: calc(100% - 22px);
+    padding: 10px;
+}
+
+.fg_content_num {
+    vertical-align: middle;
+    font-size: 12px;
+}
+
+.content_text_2>div {
+    width: 50%;
+    float: left;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.content_text_3>div {
+    width: 33%;
+    float: left;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.fg_big28_orange,
+.fg_big28_light_blue,
+.fg_big28_deep_green,
+.fg_big28_light_yellow,
+.fg_big28_1 {
+    font-size: 28px;
+    margin: 0 auto;
+}
+
+.fg_big24_1,
+.fg_big24_light_yellow,
+.fg_big24_deep_green,
+.fg_big24_light_blue,
+.fg_big24_orange {
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+.fg_big14_light_yellow,
+.fg_big14_light_blue {
+    font-size: 14px;
+    margin: 0 auto;
+}
+
+.fg_big12_orange,
+.fg_big12_light_blue,
+.fg_big12_deep_green {
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+.fg_big50_deep_green,
+.fg_big50_orange {
+    font-size: 50px;
+    margin: 0 auto;
+}
+
+.fg_big12_deep_green,
+.fg_big14_light_yellow,
+.fg_big24_light_yellow,
+.fg_big28_light_yellow {
+    color: #FBD71E;
+}
+
+.fg_big12_deep_green,
+.fg_big24_deep_green,
+.fg_big28_deep_green,
+.fg_big50_deep_green {
+    color: #68B828;
+}
+
+.fg_big12_light_blue,
+.fg_big14_light_blue,
+.fg_big24_light_blue,
+.fg_big28_light_blue {
+    color: #49d9fe;
+}
+
+.fg_big12_orange,
+.fg_big24_orange,
+.fg_big28_orange,
+.fg_big50_orange {
+    color: #FF6600;
+}
+
+.fg_common14 {
+    font-size: 14px;
+    color: white;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.content_h20 {
+    height: calc( (100% - 42px)*0.20);
+}
+
+.content_h30 {
+    height: calc((100% - 42px)*0.3);
+}
+
+.content_h80 {
+    height: calc((100% - 42px)*0.8);
+}
+
+.content_h50 {
+    height: calc((100% - 42px)*0.5);
+}
+
+.content_h70 {
+    height: calc((100% - 42px)*0.7);
+}
+
+.areaEventTop3 dt {
+    height: 33%;
+}
+
+.areaEventTop3 dt div {
+    display: inline-block;
+    margin: auto 0;
+}
+
+.areaEventTop3 dt div:first-child {
+    padding: 0;
+    text-align: center;
+    line-height: 20px;
+    width: 20px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgba(2, 30, 70, 0.8);
+    border-radius: 80px;
+    background: rgba(255, 255, 255, 1);
+}
+
+.areaEventTop3 dt div:nth-child(2) {
+    padding-left: 10px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.areaEventTop3 dt div:last-child {
+    padding: 4px 8px;
+    box-sizing: border-box;
+    width: 30px;
+    line-height: 8px;
+    height: 16px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 1);
+    color: #337ab7;
+    float: right;
+}
+
+.city_event_all {
+    height: calc(100% - 24px)
+}
+
+.emergency_table {
+    float: left;
+    height: calc(100% - 24px);
+    width: calc(50% - 5px);
+    padding-right: 5px;
+}
+
+.emergency_table ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 10%;
+    overflow: scroll;
+}
+
+.emergency_table li {
+    width: 100%;
+    height: calc((100% - 4px)*0.2);
+}
+
+.emergency_table hr {
+    width: 100%;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+}
+
+.emergency_info {
+    float: left;
+    height: calc(100% - 24px);
+    width: calc(50% - 5px);
+    padding-left: 5px;
+}

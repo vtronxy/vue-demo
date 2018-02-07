@@ -1,0 +1,15 @@
+{
+	"waterFuzziResult": [
+		{"time": "2017-6-21 7:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 34}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 8:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 33}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 9:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 29}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 10:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 15}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 11:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 7}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 12:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 43}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 13:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 34}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 14:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 34}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 15:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 34}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10},
+		{"time": "2017-6-21 16:00", "content": [{"name": "SC0082", "value": 12}, {"name": "SC0081", "value": 9}, {"name": "SC0080", "value": 22}, {"name": "SC0079", "value": 23}, {"name": "SC0078", "value": 34}, {"name": "SC0077", "value": 42}, {"name": "SC0076", "value": 17}, {"name": "SC0075", "value": 10}
+		]}
+	]
+}

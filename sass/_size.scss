@@ -1,0 +1,45 @@
+$smallScreen:1080px;
+$bigScreen:1600px;
+$max:2200px;
+@mixin exSmallType {
+    @media (max-width:#{$smallScreen - 1px}) {
+        @content;
+    }
+}
+
+@mixin smallType {
+    @media (min-width:#{$smallScreen}) and (max-width:#{$bigScreen - 1px}) {
+        @content;
+    }
+}
+
+@mixin bigType {
+    @media (min-width:#{$bigScreen}) and (max-width:#{$max}) {
+        @content;
+    }
+}
+
+html {
+    font-size: 24px; //默认的根元素的字体大小
+    @include exSmallType {
+        font-size: 8px;
+    }
+    @include smallType {
+        font-size: 12px;
+    }
+    @include bigType {
+        font-size: 22px;
+    }
+}
+
+$head-height:4.5625rem;
+$main-height:calc(100% - 4.56rem - 0.93rem);
+$main-lr-width:calc(25% - 1.25rem);
+$main-center-width:calc(50% - 1.25rem);
+$card-height:calc((100% - 6.25rem)*0.5 - 0.125rem);
+$card-width:calc(100% - 0.125rem);
+$card-header-height:1.875rem;
+$card-header-font-size:1.125rem; //标题栏的字体的大小
+$card-header-font-size-w110:1rem; //标题栏的字体的大小
+$card-header-font-size-w200:1rem; //标题栏的字体的大小
+$popup-font-size:1rem;

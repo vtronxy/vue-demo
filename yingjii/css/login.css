@@ -1,0 +1,218 @@
+/*×Ô¶¨Òå×ÖÌå*/
+@font-face {
+    font-family: AgencyFBBold;
+    src: url('font/Agency_FB_Bold.otf');
+}
+
+/*¶¨ÒåÒ³ÃæÑùÊ½*/
+* {
+    -webkit-font-smoothing: none;
+}
+html {
+    overflow: hidden;
+}
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: #091228;
+    color: #fff;
+}
+.ploginbox {
+    float: left;
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: url("../img/login/login-bg.jpg") no-repeat center center;
+}
+.logo {
+    position: absolute;
+    background: url("../img/login/login-title.png") no-repeat;
+    width: 563px;
+    height: 157px;
+    left: 50%;
+    top: 165px;
+    margin-left: -281.5px;
+    z-index: 8999;
+    cursor: pointer;
+}
+.form-box {
+    position: absolute;
+    background: url("../img/login/form-box.png") no-repeat;
+    width: 556px;
+    height: 396px;
+    left: 50%;
+    margin-left: -278px;
+    top: 310px;
+    z-index: 8999;
+}
+.form-txtbox {
+    float: left;
+    clear: both;
+    width: 315px;
+    height: 70px;
+    margin-left: 92px;
+    margin-top: 60px;
+    padding-left: 62px;
+}
+.form-txtbox:nth-child(2) {
+    margin-top: 36px;
+}
+.form-txtbox.form-user {
+    background: url("../img/login/txt-user.png") no-repeat;
+}
+.form-txtbox.form-pwd {
+    background: url("../img/login/txt-pwd.png") no-repeat;
+}
+.form-txtbox > input[type='text'] {
+    width: 280px;
+    height: 58px;
+    border-style: none;
+    background-color: transparent;
+    outline-style: none;
+    padding-left: 10px;
+    padding-right: 20px;
+    margin: 5px 0 7px 0;
+    color: #fff;
+    font-size: 24px;
+    font-family: AgencyFBBold, "microsoft yahei";
+    line-height: 58px;
+}
+.form-txtbox > input[type='password'] {
+    width: 280px;
+    height: 58px;
+    border-style: none;
+    background-color: transparent;
+    outline-style: none;
+    padding-left: 10px;
+    padding-right: 20px;
+    margin: 5px 0 7px 0;
+    color: #fff;
+    font-size: 24px;
+    font-family: AgencyFBBold, "microsoft yahei";
+    line-height: 58px;
+}
+.form-btnbox {
+    float: left;
+    clear: both;
+    width: 369px;
+    height: 62px;
+    margin-left: 96px;
+    margin-top: 36px;
+}
+.form-btnbox > input[type='button'],
+.form-btnbox > input[type='submit'] {
+    width: 369px;
+    height: 62px;
+    border-style: none;
+    background-color: #3da1ee;
+    outline-style: none;
+    color: #fff;
+    font-family: AgencyFBBold, "microsoft yahei";
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 62px;
+    text-align: center;
+    cursor: pointer;
+}
+.foot-copyright {
+    position: absolute;
+    width: 556px;
+    height: 30px;
+    left: 50%;
+    margin-left: -278px;
+    top: 710px;
+    z-index: 8999;
+}
+.foot-copyright > span.copytext {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    font-family: "microsoft yahei";
+}
+.foot-copyright > span.tstext {
+    display: block;
+    clear: both;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    color: #ff0000;
+    font-family: "microsoft yahei";
+}
+.fix-msgbox {
+    float: left;
+    position: absolute;
+    left: 0;
+    top: 0;
+    min-height: 30px;
+    width: 100%;
+    background-color: rgba(236, 246, 253, 0.3);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.fix-msgbox > .fix-msg {
+    float: left;
+    display: block;
+    width: 100%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    color: #ee1808;
+    font-family: "microsoft yahei";
+    text-shadow: 2px 3px 5px #000;
+}
+
+
+
+/**********************Ó¢ÎÄ°æµÄ¸²¸ÇÑùÊ½**********************/
+body[lng='en-au'] .logo {
+    background-image: url("../img/login/login-title-en.png");
+}
+body[lng='en-au'] .form-btnbox > input[type='button'],
+body[lng='en-au'] .form-btnbox > input[type='submit']{
+    font-family: AgencyFBBold;
+    font-size: 24px;
+    font-weight: normal;
+}
+body[lng='en-au'] .foot-copyright {
+    font-family: AgencyFBBold;
+    font-size: 18px;
+}
+body[lng='en-au'] .foot-copyright > span.copytext {
+    font-family: AgencyFBBold;
+    font-size: 18px;
+}
+body[lng='en-au'] .foot-copyright > span.tstext {
+    font-family: AgencyFBBold;
+    font-size: 20px;
+}
+body[lng='en-au'] .fix-msgbox > .fix-msg {
+    font-family: AgencyFBBold;
+    font-size: 18px;
+}
+
+/* ·Ö±æÂÊ1440*900 */
+/*
+@media screen and (max-height: 900px) {
+    body {
+        transform: scale(0.75);
+        transform-origin: 0 17%;
+        background-size: contain;
+    }
+}
+*/
+
+/* ·Ö±æÂÊ1366*768 */
+/*
+@media screen and (max-height: 768px) {
+    body {
+        transform: scale(0.711);
+        transform-origin: 0 0;
+        background-size: contain;
+    }
+}
+*/

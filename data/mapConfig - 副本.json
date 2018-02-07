@@ -1,0 +1,16 @@
+{
+    "map": [{ "mapName": "baseMap", "mapUrl": "../arcgis/rest/services/wuhan/wh_map/MapServer" }],
+    "mapView": {
+        "center": [114.31966417946637, 30.56914024236965],
+        "projection": "EPSG:4326",
+        "zoom": 12
+    },
+    "layers": [
+        { "layerName": "traffic", "layerUrl": "../arcgis/rest/services/wuhan/traffic/MapServer", "type": "esriCache", "serverType": "arcgis", "visible": false },
+        { "layerName": "roadwork", "layerUrl": "../arcgis/rest/services/wuhan/wuhan_traffic/MapServer/0", "type": "vector", "serverType": "arcgis", "visible": false },
+        { "layerName": "high_speed_probe", "layerUrl": "../arcgis/rest/services/wuhan/high_speed_probe/MapServer/0", "type": "vector", "serverType": "arcgis", "visible": false },
+        { "layerName": "camera", "layerUrl": "../arcgis/rest/services/wuhan/wuhan_traffic/MapServer/2", "type": "vector", "serverType": "arcgis", "visible": false },
+        { "layerName": "cover", "layerUrl": "../arcgis/rest/services/wuhan/wuhan_traffic/MapServer/3", "type": "vector", "serverType": "arcgis", "visible": false },
+        { "layerName": "streetlight", "layerUrl": "../arcgis/rest/services/wuhan/wuhan_traffic/MapServer/4", "type": "vector", "serverType": "arcgis", "visible": false }
+    ]
+}

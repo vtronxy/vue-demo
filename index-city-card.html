@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>LDSmart-2.0</title>
+    <!-- 用户自定义的样式 全局样式 -->
+    <link href="css/_normalize.css" type="text/css" rel="stylesheet">
+    <!-- 引场景单独打包的样式文件 -->
+    <link rel="stylesheet" href="./dist/scene-city-card.style.css">
+</head>
+
+<body>
+    <div id="app"></div>
+    <!-- 引入全局的第三方库 -->
+    <script src="lib/jquery-3.2.1.min.js"></script>
+    <script src="lib/echarts.min.js"></script>
+    <script src="lib/ol.js"></script>
+    <!-- webpack 打包后的 js文件 自定义扩展了OpenLayers 包括Eris图层-->
+    <script src="lib/lmap.js"></script>
+    <script src="lib/lmap-echarts.js"></script>
+
+    <!-- 单独的打包第三方库 -->
+    <script src="./dist/vendor.build.js"></script>
+
+    <script src="./dist/scene-city-card.build.js"></script>
+
+</body>
+
+</html>

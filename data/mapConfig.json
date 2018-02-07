@@ -1,0 +1,20 @@
+{
+    "map": [
+        { "mapName": "baseMap", "mapUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wh_map/MapServer", "serverType": "arcgisMapServer", "imgSrc": "imgs/poi/LD.png", "visible": true },
+        { "mapName": "baseMap2", "mapUrl": "http://192.168.100.73:5071/gisserver/wmtsService/gwc/service/wmts/wh_map_service:wuhan_wh_map/wmts", "serverType": "wmts", "imgSrc": "imgs/poi/LD.png", "visible": true }
+    ],
+    "mapView": {
+        "center": [114.31966417946637, 30.56914024236965],
+        "projection": "EPSG:4326",
+        "zoom": 12
+    },
+    "layers": [
+        { "layerName": "traffic", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/traffic/MapServer", "type": "tile", "serverType": "arcgis", "visible": true, "imgSrc": "imgs/poi/SSJTLK.png" },
+        { "layerName": "traffic2", "layerUrl": "http://192.168.100.73:5071/gisserver/wmtsService/gwc/service/wmts/wh_traffic_service:wuhan_traffic/wmts", "type": "tile", "serverType": "wmts", "visible": true, "imgSrc": "imgs/poi/SSJTLK.png" },
+        { "layerName": "roadwork", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/0", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/SGZD.png" },
+        { "layerName": "high_speed_probe", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/high_speed_probe/MapServer/0", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/GSTT.png" },
+        { "layerName": "camera", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/2", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" },
+        { "layerName": "cover", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/3", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" },
+        { "layerName": "streetlight", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/4", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" }
+    ]
+}
