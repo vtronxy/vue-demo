@@ -41,15 +41,15 @@
             this.vm_olMap = vm_olMap;
             //添加基础瓦片图层之后，加载覆盖瓦片图层
             utils.wait(vm_olMap, 'olMapLoadedFlag', () => {
-                let olMap = vm_olMap.getOlMap(); //拿到地图实例     
-                this.olMap = olMap;
+                // let olMap = vm_olMap.getOlMap(); //拿到地图实例     
+                // this.olMap = olMap;
                 //获取服务的能力描述信息
                 let capaPromise = this._getCapabilities(this.layerUrl, this.serverType);
                 //加载瓦片图层
                 capaPromise.then((tileLayerConfig) => {
                     this.loadTileLayer(tileLayerConfig, this.serverType);
                     //必须要触发，因为按现在的设计，图层的可见性是在所有图层加载完毕后，才能设置，触发了本消息，地图对象才知道图层已加载完毕
-                    this.$emit('layerLoaded', {
+                    this.$emit('layer-loaded', {
                         layerName: this.layerName,
                         layerObj: this.tileLayer
                     });
@@ -123,6 +123,24 @@
                 });
                 return queryPromise;
             },
+            _insertTileLayers: function(tileLayerObj) {
+                this.vm_olMap.getOlMap().then((map)=>{
+                let layers = map.getLayers();
+                //positionNext是第一个矢量图层的位置，瓦片要插入在它的前面
+                let positionNext = this._getTileInsertPosition(layers);
+                layers.insertAt(positionNext, tileLayerObj);
+                this.vm_olMap.saveMapLayer(this.layerName, tileLayerObj); //保存 baseMap的信息
+                });
+
+            },
+            _getTileInsertPosition: function(layers) {
+                //找到第一个矢量图层的位置，瓦片图层要放在矢量图层的前面
+                let vectorLayerIndex = layers.getArray().findIndex((value, index, arr) => {
+                    return value instanceof ol.layer.Vector;
+                });
+                return vectorLayerIndex;
+            },
+            
             loadTileLayer: function(tileLayerConfig, serverType) { //加载瓦片图层
                 let epsg = this.$parent.olMapView.projection; //获取坐标系
                 let tileLayerObj = null;
@@ -169,20 +187,6 @@
                 //加入断言验证
                 if(tileLayerObj)
                 this._insertTileLayers(tileLayerObj);
-            },
-            _insertTileLayers: function(tileLayerObj) {
-                let layers = this.olMap.getLayers();
-                //positionNext是第一个矢量图层的位置，瓦片要插入在它的前面
-                let positionNext = this._getTileInsertPosition(layers);
-                layers.insertAt(positionNext, tileLayerObj);
-                this.vm_olMap.saveMapLayer(this.layerName, tileLayerObj); //保存 baseMap的信息
-            },
-            _getTileInsertPosition: function(layers) {
-                //找到第一个矢量图层的位置，瓦片图层要放在矢量图层的前面
-                let vectorLayerIndex = layers.getArray().findIndex((value, index, arr) => {
-                    return value instanceof ol.layer.Vector;
-                });
-                return vectorLayerIndex;
             },
             getLayerObj: function() {
                 return this.tileLayer;

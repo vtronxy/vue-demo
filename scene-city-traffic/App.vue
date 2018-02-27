@@ -134,8 +134,8 @@
     </div>
     <!-- 地图组件 -->
     <ol-map ref="olMap" v-bind="baseMapProps">
-      <ol-layer-tile @layerLoaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :serverType="item.serverType" :visible="item.visible" v-if="item.type == 'tile'"></ol-layer-tile>
-      <ol-layer-vector @layerLoaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :visible="item.visible" v-if="item.type.toLowerCase() == 'vector'"></ol-layer-vector>
+      <ol-layer-tile @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :serverType="item.serverType" :visible="item.visible" v-if="item.type == 'tile'"></ol-layer-tile>
+      <ol-layer-vector @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :visible="item.visible" v-if="item.type.toLowerCase() == 'vector'"></ol-layer-vector>
       <ol-state-select state-name="single-choose"></ol-state-select>
     </ol-map>
   </div>
@@ -181,7 +181,7 @@
     },
     methods: {
       //报告已经加载的[所有的] 地图图层
-      _reportLayerLoaded: (function() {
+      _reportLayerLoaded: (function(that) {
         let count = 0;
         let layerCount = mapConfig.layers.length; //所有图层的数量
         let allLayers = [];
@@ -191,6 +191,7 @@
           if (layerCount === count) {
             //ol-state- 会监听这个事件
             EventBus.$emit('layer-load-completed', allLayers); //所有的图层已经加载完毕
+            console.log(`allLayers load completed`);
           }
           console.log(`${event.layerName} load completed`);
         }

@@ -5,23 +5,16 @@ var Visualizer = require('webpack-visualizer-plugin');
 
 module.exports = {
     // 入口文件 这里配置其他主题的入口文件
-    target: 'web',
     entry: {
-        'scene-city-index': './scene-city-index/main.js',
-        'scene-city-manager': './scene-city-manager/main.js',
-        'scene-city-card': './scene-city-card/main.js',
-        'scene-city-public': './scene-city-public/main.js',
-        'scene-city-traffic': './scene-city-traffic/main.js',
-        'scene-city-trip': './scene-city-trip/main.js',
-        'vendor': ['vue', 'lodash'] //抽取第三方的公共库
+        'ldMap': './ldMap.js'
     },
     //编译输出文件
     output: {
         path: path.resolve(__dirname, './dist'),
         //本机开发的时候，这里一定是/dist/ HRM的功能才会启动
         //部署的时候修改为 /bi/dist/  因为希望通过 http://ip:端口/bi/index-city-index.html访问
-        publicPath: '/dist/', //不能使用 '/dist' 图片路径会出现问题
-        filename: '[name].build.js'
+        filename: '[name].build.js',
+        libraryTarget: 'umd'
     },
     //模块插件的处理规则
     module: {
@@ -30,10 +23,7 @@ module.exports = {
                 loader: 'vue-loader', //会检测babel-loader去处理JavaScript
                 options: {
                     loaders: {
-                        'scss': ExtractTextPlugin.extract({
-                            use: 'css-loader!sass-loader',
-                            fallback: 'vue-style-loader'
-                        })
+                        'scss': 'vue-style-loader!css-loader!sass-loader'
                     }
                 }
             },
@@ -46,21 +36,19 @@ module.exports = {
                 test: /\.scss$/, //在业务JavaScript代码中使用 import '*.scss'
                 //loader: 'style-loader!css-loader!sass-loader'
                 //查看多实例打包
-                use: ExtractTextPlugin.extract({
-                    fallback: 'style-loader',
-                    use: [
-                        'css-loader',
-                        'sass-loader'
-                    ]
-                })
+                use: [
+                    'style-loader',
+                    'css-loader',
+                    'sass-loader'
+                ]
             },
-            { //处理中文图标有问题
+            { //处理中文图标有问题,还可以设置publicPath,1024是字节
                 test: /\.(png|jpg|gif|svg)$/,
                 loader: 'url-loader',
                 options: {
-                    limit: '4096',
+                    limit: '4096', //小于4kb的图片使用 url-loader处理，超过了使用file-loader处理
                     name: '[name].[ext]?[hash]',
-                    outputPath: 'img/'
+                    outputPath: "img/",
                 }
             }
         ]
@@ -82,18 +70,7 @@ module.exports = {
         hints: false
     },
     devtool: '#eval-source-map', //source-map配置
-    plugins: [
-        new ExtractTextPlugin({
-            filename: "[name].style.css",
-            allChunks: true
-        }), //抽取后的单独的css文件
-        new webpack.optimize.CommonsChunkPlugin({
-            name: 'vendor'
-        }),
-        new Visualizer({ //打包后的依赖包可视化分析
-            filename: './statistics.html'
-        })
-    ]
+    plugins: []
 }
 
 //npm run build 时执行 产品部署,增加webpack的配置

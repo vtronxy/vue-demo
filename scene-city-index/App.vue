@@ -66,7 +66,7 @@
     }
     .card_header_w110 {
         @extend .card_header;
-        font-size:$card-header-font-size-w110;
+        font-size: $card-header-font-size-w110;
         width: 6.75rem;
         margin-left: -3.4375rem;
     }
@@ -177,7 +177,7 @@
     }
     .layerSwitch .card-side {
         height: 18.25rem;
-        @include smallType{
+        @include smallType {
             height: 25.25rem;
         }
     }
@@ -188,8 +188,8 @@
         <!-- 地图组件 -->
         <ol-map ref="olMap" v-bind="baseMapProps">
             <!-- 覆盖瓦片图层 -->
-            <ol-layer-tile @layerLoaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="index" :layerName="item.layerName" :layerUrl="item.layerUrl" :visible="item.visible" v-if="item.type == 'esriCache'"></ol-layer-tile>
-            <ol-layer-vector @layerLoaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="index" :layerName="item.layerName" :layerUrl="item.layerUrl" :visible="item.visible" v-if="item.type.toLowerCase() == 'vector'"></ol-layer-vector>
+            <ol-layer-tile @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :serverType="item.serverType" :visible="item.visible" v-if="item.type == 'tile'"></ol-layer-tile>
+            <ol-layer-vector @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :visible="item.visible" v-if="item.type.toLowerCase() == 'vector'"></ol-layer-vector>
             <ol-state-select state-name="single-choose"></ol-state-select>
         </ol-map>
         <div class="layerSwitch">
@@ -223,19 +223,19 @@
         <div class="j-main-center_up main-center_up">
             <div class="fragment corner_fragment">
                 <span class="index-info">
-                                2.23T
-                            </span>
+                                    2.23T
+                                </span>
             </div>
             <div class="fragment margin_lr corner_fragment">
                 <span class="index-info">
-                                <bi-index-count v-bind:initcounter="36432"></bi-index-count>
-                              
-                            </span>
+                                    <bi-index-count v-bind:initcounter="36432"></bi-index-count>
+                                  
+                                </span>
             </div>
             <div class="fragment corner_fragment">
                 <span class="index-info">
-                                64.2%
-                            </span>
+                                    64.2%
+                                </span>
             </div>
             <div class="fragment_des">信息采集总量</div>
             <div class="fragment_des margin_lr ">信息交换总量</div>

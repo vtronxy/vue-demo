@@ -1,6 +1,4 @@
 import Vue from 'vue'
-import { setTimeout, clearTimeout } from 'timers';
-import { inspect } from 'util';
 //消息总线
 var EventBus = new Vue();
 

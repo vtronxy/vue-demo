@@ -54,7 +54,7 @@
     <div class="mapContainer">
         <div ref="leadMap" class="ol-map">
         </div>
-        <slot>分发内容</slot>
+        <slot>分发内容layer、interaction组件</slot>
         <div ref="popupContainer" class="ol-popup">
             <span ref="popupTitle" class="popup-title">华中科技大学</span >
                     <a href="#" class="ol-popup-closer" @click="_closePopup"></a>
@@ -327,10 +327,16 @@
             },
             //在 wait的回调中 调用该方法 拿到实例化的 olMap实例
             getOlMap: function() {
-                if (!this.olMapLoadedFlag) {
-                    throw new Error('请使用util.wait() 来获取olMap实例');
-                }
-                return this.olMap;
+                // if (!this.olMapLoadedFlag) {
+                //     throw new Error('请使用utils.wait() 来获取olMap实例');
+                // }
+                // return this.olMap;
+
+                return new Promise((resolve)=>{
+                    utils.wait(this,'olMapLoadedFlag',()=>{
+                        resolve(this.olMap);
+                    })
+                })
             },
             //设置echarts图层可见性
             setEchartsLayerVisible: function(visible) {
@@ -378,7 +384,7 @@
                         }
                         return a
                     }
-                    let data = setOption(wuhan_car.features);
+                    let data = setOption(wuhan_car.features); //拿到修改后的要素数据
                     const option = {
                         LDMap: {},
                         series: [{
