@@ -10,12 +10,20 @@
     export default {
         props: {
             layerUrl: {
-                type: String,
-                required: true
+                type:String,
+                required:true
+            },
+            queryCondition:{
+                type:String,
+                default:'/query?where=1%3D1&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&f=pjson'
             },
             layerName: {
                 type: String,
                 required: true
+            },
+            layerStyle:{
+                type:Object,
+                default:null
             },
             visible: {
                 type: Boolean,
@@ -24,22 +32,36 @@
         },
         data: function() {
             return {
-                vectorLayer: null
+                vectorLayer: null,
+                dataSrc:null,
+                isLocalSource:false
             }
         },
         created: function() {
-            //发起ajax请求，添加图层到 ol.map容器
+            this.layerUrl.includes('http')? this.isLocalSource = true:this.isLocalSource = false;
+            if(this.isLocalSource){ //远程资源
+                this.dataSrc = this.layerUrl + this.queryCondition;
+            }else{ //远程资源
+                this.dataSrc = this.layerUrl;
+            }
+            //矢量图层这里没有区分类型点、线、面，图层由数据源的 类型 来选择相应的渲染方式
             this.vectorLayer = new ol.layer.Vector({
-                //visible: false, //TODO:把图层以属性扩展
                 source: new ol.source.Vector({
-                    url: `../../data/${this.layerName}.json`,
+                    url:this.dataSrc,
                     format: new ol.format.EsriJSON()
                 }),
-                // 设置样式，颜色为红色，线条粗细为1个像素
+                // 设置样式，颜色为红色，线条粗细为1个像素，同时设置了 point line poly的样式
                 style: new ol.style.Style({
+                    fill: new ol.style.Fill({
+                        color: 'rgba(222, 252, 199, 0.5)'
+                    }),
+                    stroke: new ol.style.Stroke({
+                        color: 'rgba(110, 110, 110, 255)',
+                        width: 2
+                    }),
                     image: new ol.style.Icon({
                         anchor: [0.5, 0.5], //图标绘制起始点
-                        src: `../../imgs/poi/${this.layerName}.png`
+                        src:this.layerStyle.img
                     })
                 }),
                 wrapX: false
@@ -64,11 +86,9 @@
             })
         },
         methods: {
-            //todo:预先加载 图层使用 数据.json 及 图片资源
-            _initGetData() {
-                return new Promise((resolve) => {
-                    //获取图层的配置信息
-                })
+            //todo:进行图层 初始化操作
+            _initLayer() {
+
             },
             getLayerObj: function() {
                 return this.vectorLayer;

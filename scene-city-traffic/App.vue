@@ -135,7 +135,7 @@
     <!-- 地图组件 -->
     <ol-map ref="olMap" v-bind="baseMapProps">
       <ol-layer-tile @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :serverType="item.serverType" :visible="item.visible" v-if="item.type == 'tile'"></ol-layer-tile>
-      <ol-layer-vector @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :visible="item.visible" v-if="item.type.toLowerCase() == 'vector'"></ol-layer-vector>
+      <ol-layer-vector @layer-loaded="_reportLayerLoaded($event)" v-for="(item,index) in olMapConfig.layers" :key="item.layerName" :layerName="item.layerName" :layerUrl="item.layerUrl" :layerStyle="item.layerStyle" :visible="item.visible" v-if="item.type.toLowerCase() == 'vector'"></ol-layer-vector>
       <ol-state-select state-name="single-choose"></ol-state-select>
     </ol-map>
   </div>

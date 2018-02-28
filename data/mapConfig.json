@@ -11,10 +11,10 @@
     "layers": [
         { "layerName": "traffic", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/traffic/MapServer", "type": "tile", "serverType": "arcgis", "visible": true, "imgSrc": "imgs/poi/SSJTLK.png" },
         { "layerName": "traffic2", "layerUrl": "http://192.168.100.73:5071/gisserver/wmtsService/gwc/service/wmts/wh_traffic_service:wuhan_traffic/wmts", "type": "tile", "serverType": "wmts", "visible": true, "imgSrc": "imgs/poi/SSJTLK.png" },
-        { "layerName": "roadwork", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/0", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/SGZD.png" },
-        { "layerName": "high_speed_probe", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/high_speed_probe/MapServer/0", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/GSTT.png" },
-        { "layerName": "camera", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/2", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" },
-        { "layerName": "cover", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/3", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" },
-        { "layerName": "streetlight", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/4", "type": "vector", "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" }
+        { "layerName": "roadwork", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/0", "type": "vector", "layerStyle": { "img": "../../imgs/poi/roadwork.png" }, "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/SGZD.png" },
+        { "layerName": "high_speed_probe", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/high_speed_probe/MapServer/0", "type": "vector", "layerStyle": { "img": "../../imgs/poi/high_speed_probe.png" }, "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/GSTT.png" },
+        { "layerName": "camera", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/2", "type": "vector", "layerStyle": { "img": "../../imgs/poi/camera.png" }, "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" },
+        { "layerName": "cover", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/3", "type": "vector", "layerStyle": { "img": "../../imgs/poi/cover.png" }, "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" },
+        { "layerName": "streetlight", "layerUrl": "http://192.168.11.58:6080/arcgis/rest/services/wuhan/wuhan_traffic/MapServer/4", "type": "vector", "layerStyle": { "img": "../../imgs/poi/streetlight.png" }, "serverType": "arcgis", "visible": false, "imgSrc": "imgs/poi/JDSXT.png" }
     ]
 }
